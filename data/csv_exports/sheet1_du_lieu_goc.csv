@@ -1,0 +1,1001 @@
+﻿date,category,description,amount,payment_method,note
+2025-01-01,Nha o,Tien tro hang thang,448000,Chuyen khoan,Chi phi sinh hoat can thiet
+2025-02-04,An uong,An trua van phong,103000,The,Du tru bua an trong tuan
+2025-03-07,Di chuyen,Di xe cong nghe,103000,Chuyen khoan,Bao tri phuong tien
+2025-04-10,Hoc tap,Le phi thi,260000,The,Dau tu cho ky nang
+2025-05-13,Giai tri,Ve su kien,195000,Vi dien tu,Chi phi giai tri theo thang
+2025-06-16,Suc khoe,Kham tong quat,256000,Chuyen khoan,Phat sinh khong deu
+2025-07-19,Mua sam,Mua phu kien hoc tap,320000,The,Bo sung vat dung can thiet
+2025-08-22,Nha o,Bao tri phong tro,661000,The,Thanh toan dinh ky
+2025-09-25,An uong,Dat do an online,183000,Vi dien tu,Phuc vu lich hoc va lam
+2025-10-28,Di chuyen,Gui xe,197000,Tien mat,Di hoc va di lam
+2025-11-03,Hoc tap,Mua sach,522000,Chuyen khoan,Phuc vu bai tap va bao cao
+2025-12-06,Giai tri,Ca phe voi ban be,352000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-01-09,Suc khoe,Mua thuoc,143000,Tien mat,Cham soc suc khoe dinh ky
+2025-02-12,Mua sam,Mua quan ao,187000,Vi dien tu,Can can nhac truoc khi mua
+2025-03-15,Nha o,Phi internet,538000,Chuyen khoan,Phat sinh trong thang
+2025-04-18,An uong,Mua thuc pham,155000,Tien mat,Chi phi hang ngay
+2025-05-21,Di chuyen,Do xang xe,159000,Vi dien tu,Phat sinh di lai trong thang
+2025-06-24,Hoc tap,Hoc phi khoa ngan han,364000,The,Nang cao kien thuc
+2025-07-27,Giai tri,Du lich ngan ngay,269000,The,Thu gian cuoi tuan
+2025-08-02,Suc khoe,Mua vitamin,342000,The,Du phong cho suc khoe
+2025-09-05,Mua sam,Mua do dung ca nhan,414000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-10-08,Nha o,Tien dien nuoc,751000,The,Chi phi sinh hoat can thiet
+2025-11-11,An uong,An toi cuoi tuan,235000,The,Du tru bua an trong tuan
+2025-12-14,Di chuyen,Bao duong xe may,253000,Chuyen khoan,Bao tri phuong tien
+2025-01-17,Hoc tap,Mua khoa hoc online,206000,Chuyen khoan,Dau tu cho ky nang
+2025-02-20,Giai tri,Xem phim,186000,Vi dien tu,Chi phi giai tri theo thang
+2025-03-23,Suc khoe,Kham rang,229000,Chuyen khoan,Phat sinh khong deu
+2025-04-26,Mua sam,Mua do gia dung nho,281000,The,Bo sung vat dung can thiet
+2025-05-01,Nha o,Tien tro hang thang,628000,Chuyen khoan,Thanh toan dinh ky
+2025-06-04,An uong,Ca phe buoi sang,207000,Vi dien tu,Phuc vu lich hoc va lam
+2025-07-07,Di chuyen,Di xe cong nghe,215000,Tien mat,Di hoc va di lam
+2025-08-10,Hoc tap,In tai lieu,468000,The,Phuc vu bai tap va bao cao
+2025-09-13,Giai tri,Dang ky nen tang giai tri,343000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-10-16,Suc khoe,Kham tong quat,428000,Tien mat,Cham soc suc khoe dinh ky
+2025-11-19,Mua sam,Mua phu kien hoc tap,508000,Vi dien tu,Can can nhac truoc khi mua
+2025-12-22,Nha o,Bao tri phong tro,756000,The,Phat sinh trong thang
+2025-01-25,An uong,An trua van phong,94000,Tien mat,Chi phi hang ngay
+2025-02-28,Di chuyen,Gui xe,92000,Vi dien tu,Phat sinh di lai trong thang
+2025-03-03,Hoc tap,Le phi thi,225000,Chuyen khoan,Nang cao kien thuc
+2025-04-06,Giai tri,Ve su kien,175000,The,Thu gian cuoi tuan
+2025-05-09,Suc khoe,Mua thuoc,230000,The,Du phong cho suc khoe
+2025-06-12,Mua sam,Mua quan ao,290000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-07-15,Nha o,Phi internet,633000,Chuyen khoan,Chi phi sinh hoat can thiet
+2025-08-18,An uong,Dat do an online,174000,The,Du tru bua an trong tuan
+2025-09-21,Di chuyen,Do xang xe,186000,Chuyen khoan,Bao tri phuong tien
+2025-10-24,Hoc tap,Mua sach,487000,The,Dau tu cho ky nang
+2025-11-27,Giai tri,Ca phe voi ban be,332000,Vi dien tu,Chi phi giai tri theo thang
+2025-12-02,Suc khoe,Mua vitamin,429000,Chuyen khoan,Phat sinh khong deu
+2025-01-05,Mua sam,Mua do dung ca nhan,157000,The,Bo sung vat dung can thiet
+2025-02-08,Nha o,Tien dien nuoc,510000,The,Thanh toan dinh ky
+2025-03-11,An uong,Mua thuc pham,146000,Vi dien tu,Phuc vu lich hoc va lam
+2025-04-14,Di chuyen,Bao duong xe may,148000,Tien mat,Di hoc va di lam
+2025-05-17,Hoc tap,Hoc phi khoa ngan han,329000,Chuyen khoan,Phuc vu bai tap va bao cao
+2025-06-20,Giai tri,Du lich ngan ngay,249000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-07-23,Suc khoe,Kham rang,316000,Tien mat,Cham soc suc khoe dinh ky
+2025-08-26,Mua sam,Mua do gia dung nho,384000,Vi dien tu,Can can nhac truoc khi mua
+2025-09-01,Nha o,Tien tro hang thang,723000,Chuyen khoan,Phat sinh trong thang
+2025-10-04,An uong,An toi cuoi tuan,226000,Tien mat,Chi phi hang ngay
+2025-11-07,Di chuyen,Di xe cong nghe,242000,Vi dien tu,Phat sinh di lai trong thang
+2025-12-10,Hoc tap,Mua khoa hoc online,591000,The,Nang cao kien thuc
+2025-01-13,Giai tri,Xem phim,166000,The,Thu gian cuoi tuan
+2025-02-16,Suc khoe,Kham tong quat,203000,The,Du phong cho suc khoe
+2025-03-19,Mua sam,Mua phu kien hoc tap,251000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-04-22,Nha o,Bao tri phong tro,600000,The,Chi phi sinh hoat can thiet
+2025-05-25,An uong,Ca phe buoi sang,198000,The,Du tru bua an trong tuan
+2025-06-28,Di chuyen,Gui xe,204000,Chuyen khoan,Bao tri phuong tien
+2025-07-03,Hoc tap,In tai lieu,433000,Chuyen khoan,Dau tu cho ky nang
+2025-08-06,Giai tri,Dang ky nen tang giai tri,323000,Vi dien tu,Chi phi giai tri theo thang
+2025-09-09,Suc khoe,Mua thuoc,402000,Chuyen khoan,Phat sinh khong deu
+2025-10-12,Mua sam,Mua quan ao,478000,The,Bo sung vat dung can thiet
+2025-11-15,Nha o,Phi internet,728000,Chuyen khoan,Thanh toan dinh ky
+2025-12-18,An uong,An trua van phong,193000,Vi dien tu,Phuc vu lich hoc va lam
+2025-01-21,Di chuyen,Do xang xe,81000,Tien mat,Di hoc va di lam
+2025-02-24,Hoc tap,Le phi thi,190000,The,Phuc vu bai tap va bao cao
+2025-03-27,Giai tri,Ve su kien,155000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-04-02,Suc khoe,Mua vitamin,204000,Tien mat,Cham soc suc khoe dinh ky
+2025-05-05,Mua sam,Mua do dung ca nhan,260000,Vi dien tu,Can can nhac truoc khi mua
+2025-06-08,Nha o,Tien dien nuoc,605000,The,Phat sinh trong thang
+2025-07-11,An uong,Dat do an online,165000,Tien mat,Chi phi hang ngay
+2025-08-14,Di chuyen,Bao duong xe may,175000,Vi dien tu,Phat sinh di lai trong thang
+2025-09-17,Hoc tap,Mua sach,452000,Chuyen khoan,Nang cao kien thuc
+2025-10-20,Giai tri,Ca phe voi ban be,312000,The,Thu gian cuoi tuan
+2025-11-23,Suc khoe,Kham rang,403000,The,Du phong cho suc khoe
+2025-12-26,Mua sam,Mua do gia dung nho,487000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-01-01,Nha o,Tien tro hang thang,482000,Chuyen khoan,Chi phi sinh hoat can thiet
+2025-02-04,An uong,Mua thuc pham,137000,The,Du tru bua an trong tuan
+2025-03-07,Di chuyen,Di xe cong nghe,137000,Chuyen khoan,Bao tri phuong tien
+2025-04-10,Hoc tap,Hoc phi khoa ngan han,294000,The,Dau tu cho ky nang
+2025-05-13,Giai tri,Du lich ngan ngay,229000,Vi dien tu,Chi phi giai tri theo thang
+2025-06-16,Suc khoe,Kham tong quat,290000,Chuyen khoan,Phat sinh khong deu
+2025-07-19,Mua sam,Mua phu kien hoc tap,354000,The,Bo sung vat dung can thiet
+2025-08-22,Nha o,Bao tri phong tro,695000,The,Thanh toan dinh ky
+2025-09-25,An uong,An toi cuoi tuan,217000,Vi dien tu,Phuc vu lich hoc va lam
+2025-10-28,Di chuyen,Gui xe,231000,Tien mat,Di hoc va di lam
+2025-11-03,Hoc tap,Mua khoa hoc online,556000,Chuyen khoan,Phuc vu bai tap va bao cao
+2025-12-06,Giai tri,Xem phim,386000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-01-09,Suc khoe,Mua thuoc,177000,Tien mat,Cham soc suc khoe dinh ky
+2025-02-12,Mua sam,Mua quan ao,221000,Vi dien tu,Can can nhac truoc khi mua
+2025-03-15,Nha o,Phi internet,572000,Chuyen khoan,Phat sinh trong thang
+2025-04-18,An uong,Ca phe buoi sang,189000,Tien mat,Chi phi hang ngay
+2025-05-21,Di chuyen,Do xang xe,193000,Vi dien tu,Phat sinh di lai trong thang
+2025-06-24,Hoc tap,In tai lieu,398000,The,Nang cao kien thuc
+2025-07-27,Giai tri,Dang ky nen tang giai tri,303000,The,Thu gian cuoi tuan
+2025-08-02,Suc khoe,Mua vitamin,376000,The,Du phong cho suc khoe
+2025-09-05,Mua sam,Mua do dung ca nhan,448000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-10-08,Nha o,Tien dien nuoc,700000,The,Chi phi sinh hoat can thiet
+2025-11-11,An uong,An trua van phong,184000,The,Du tru bua an trong tuan
+2025-12-14,Di chuyen,Bao duong xe may,202000,Chuyen khoan,Bao tri phuong tien
+2025-01-17,Hoc tap,Le phi thi,155000,Chuyen khoan,Dau tu cho ky nang
+2025-02-20,Giai tri,Ve su kien,135000,Vi dien tu,Chi phi giai tri theo thang
+2025-03-23,Suc khoe,Kham rang,178000,Chuyen khoan,Phat sinh khong deu
+2025-04-26,Mua sam,Mua do gia dung nho,230000,The,Bo sung vat dung can thiet
+2025-05-01,Nha o,Tien tro hang thang,577000,Chuyen khoan,Thanh toan dinh ky
+2025-06-04,An uong,Dat do an online,156000,Vi dien tu,Phuc vu lich hoc va lam
+2025-07-07,Di chuyen,Di xe cong nghe,164000,Tien mat,Di hoc va di lam
+2025-08-10,Hoc tap,Mua sach,417000,The,Phuc vu bai tap va bao cao
+2025-09-13,Giai tri,Ca phe voi ban be,292000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-10-16,Suc khoe,Kham tong quat,377000,Tien mat,Cham soc suc khoe dinh ky
+2025-11-19,Mua sam,Mua phu kien hoc tap,457000,Vi dien tu,Can can nhac truoc khi mua
+2025-12-22,Nha o,Bao tri phong tro,790000,The,Phat sinh trong thang
+2025-01-25,An uong,Mua thuc pham,128000,Tien mat,Chi phi hang ngay
+2025-02-28,Di chuyen,Gui xe,126000,Vi dien tu,Phat sinh di lai trong thang
+2025-03-03,Hoc tap,Hoc phi khoa ngan han,259000,Chuyen khoan,Nang cao kien thuc
+2025-04-06,Giai tri,Du lich ngan ngay,209000,The,Thu gian cuoi tuan
+2025-05-09,Suc khoe,Mua thuoc,264000,The,Du phong cho suc khoe
+2025-06-12,Mua sam,Mua quan ao,324000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-07-15,Nha o,Phi internet,667000,Chuyen khoan,Chi phi sinh hoat can thiet
+2025-08-18,An uong,An toi cuoi tuan,208000,The,Du tru bua an trong tuan
+2025-09-21,Di chuyen,Do xang xe,220000,Chuyen khoan,Bao tri phuong tien
+2025-10-24,Hoc tap,Mua khoa hoc online,521000,The,Dau tu cho ky nang
+2025-11-27,Giai tri,Xem phim,366000,Vi dien tu,Chi phi giai tri theo thang
+2025-12-02,Suc khoe,Mua vitamin,463000,Chuyen khoan,Phat sinh khong deu
+2025-01-05,Mua sam,Mua do dung ca nhan,191000,The,Bo sung vat dung can thiet
+2025-02-08,Nha o,Tien dien nuoc,544000,The,Thanh toan dinh ky
+2025-03-11,An uong,Ca phe buoi sang,180000,Vi dien tu,Phuc vu lich hoc va lam
+2025-04-14,Di chuyen,Bao duong xe may,182000,Tien mat,Di hoc va di lam
+2025-05-17,Hoc tap,In tai lieu,363000,Chuyen khoan,Phuc vu bai tap va bao cao
+2025-06-20,Giai tri,Dang ky nen tang giai tri,283000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-07-23,Suc khoe,Kham rang,350000,Tien mat,Cham soc suc khoe dinh ky
+2025-08-26,Mua sam,Mua do gia dung nho,418000,Vi dien tu,Can can nhac truoc khi mua
+2025-09-01,Nha o,Tien tro hang thang,672000,Chuyen khoan,Phat sinh trong thang
+2025-10-04,An uong,An trua van phong,175000,Tien mat,Chi phi hang ngay
+2025-11-07,Di chuyen,Di xe cong nghe,191000,Vi dien tu,Phat sinh di lai trong thang
+2025-12-10,Hoc tap,Le phi thi,540000,The,Nang cao kien thuc
+2025-01-13,Giai tri,Ve su kien,115000,The,Thu gian cuoi tuan
+2025-02-16,Suc khoe,Kham tong quat,152000,The,Du phong cho suc khoe
+2025-03-19,Mua sam,Mua phu kien hoc tap,200000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-04-22,Nha o,Bao tri phong tro,549000,The,Chi phi sinh hoat can thiet
+2025-05-25,An uong,Dat do an online,147000,The,Du tru bua an trong tuan
+2025-06-28,Di chuyen,Gui xe,153000,Chuyen khoan,Bao tri phuong tien
+2025-07-03,Hoc tap,Mua sach,382000,Chuyen khoan,Dau tu cho ky nang
+2025-08-06,Giai tri,Ca phe voi ban be,272000,Vi dien tu,Chi phi giai tri theo thang
+2025-09-09,Suc khoe,Mua thuoc,351000,Chuyen khoan,Phat sinh khong deu
+2025-10-12,Mua sam,Mua quan ao,427000,The,Bo sung vat dung can thiet
+2025-11-15,Nha o,Phi internet,762000,Chuyen khoan,Thanh toan dinh ky
+2025-12-18,An uong,Mua thuc pham,227000,Vi dien tu,Phuc vu lich hoc va lam
+2025-01-21,Di chuyen,Do xang xe,115000,Tien mat,Di hoc va di lam
+2025-02-24,Hoc tap,Hoc phi khoa ngan han,224000,The,Phuc vu bai tap va bao cao
+2025-03-27,Giai tri,Du lich ngan ngay,189000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-04-02,Suc khoe,Mua vitamin,238000,Tien mat,Cham soc suc khoe dinh ky
+2025-05-05,Mua sam,Mua do dung ca nhan,294000,Vi dien tu,Can can nhac truoc khi mua
+2025-06-08,Nha o,Tien dien nuoc,639000,The,Phat sinh trong thang
+2025-07-11,An uong,An toi cuoi tuan,199000,Tien mat,Chi phi hang ngay
+2025-08-14,Di chuyen,Bao duong xe may,209000,Vi dien tu,Phat sinh di lai trong thang
+2025-09-17,Hoc tap,Mua khoa hoc online,486000,Chuyen khoan,Nang cao kien thuc
+2025-10-20,Giai tri,Xem phim,346000,The,Thu gian cuoi tuan
+2025-11-23,Suc khoe,Kham rang,437000,The,Du phong cho suc khoe
+2025-12-26,Mua sam,Mua do gia dung nho,521000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-01-01,Nha o,Tien tro hang thang,516000,Chuyen khoan,Chi phi sinh hoat can thiet
+2025-02-04,An uong,Ca phe buoi sang,171000,The,Du tru bua an trong tuan
+2025-03-07,Di chuyen,Di xe cong nghe,171000,Chuyen khoan,Bao tri phuong tien
+2025-04-10,Hoc tap,In tai lieu,328000,The,Dau tu cho ky nang
+2025-05-13,Giai tri,Dang ky nen tang giai tri,263000,Vi dien tu,Chi phi giai tri theo thang
+2025-06-16,Suc khoe,Kham tong quat,324000,Chuyen khoan,Phat sinh khong deu
+2025-07-19,Mua sam,Mua phu kien hoc tap,388000,The,Bo sung vat dung can thiet
+2025-08-22,Nha o,Bao tri phong tro,644000,The,Thanh toan dinh ky
+2025-09-25,An uong,An trua van phong,166000,Vi dien tu,Phuc vu lich hoc va lam
+2025-10-28,Di chuyen,Gui xe,180000,Tien mat,Di hoc va di lam
+2025-11-03,Hoc tap,Le phi thi,505000,Chuyen khoan,Phuc vu bai tap va bao cao
+2025-12-06,Giai tri,Ve su kien,335000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-01-09,Suc khoe,Mua thuoc,126000,Tien mat,Cham soc suc khoe dinh ky
+2025-02-12,Mua sam,Mua quan ao,170000,Vi dien tu,Can can nhac truoc khi mua
+2025-03-15,Nha o,Phi internet,521000,Chuyen khoan,Phat sinh trong thang
+2025-04-18,An uong,Dat do an online,138000,Tien mat,Chi phi hang ngay
+2025-05-21,Di chuyen,Do xang xe,142000,Vi dien tu,Phat sinh di lai trong thang
+2025-06-24,Hoc tap,Mua sach,347000,The,Nang cao kien thuc
+2025-07-27,Giai tri,Ca phe voi ban be,252000,The,Thu gian cuoi tuan
+2025-08-02,Suc khoe,Mua vitamin,325000,The,Du phong cho suc khoe
+2025-09-05,Mua sam,Mua do dung ca nhan,397000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-10-08,Nha o,Tien dien nuoc,734000,The,Chi phi sinh hoat can thiet
+2025-11-11,An uong,Mua thuc pham,218000,The,Du tru bua an trong tuan
+2025-12-14,Di chuyen,Bao duong xe may,236000,Chuyen khoan,Bao tri phuong tien
+2025-01-17,Hoc tap,Hoc phi khoa ngan han,189000,Chuyen khoan,Dau tu cho ky nang
+2025-02-20,Giai tri,Du lich ngan ngay,169000,Vi dien tu,Chi phi giai tri theo thang
+2025-03-23,Suc khoe,Kham rang,212000,Chuyen khoan,Phat sinh khong deu
+2025-04-26,Mua sam,Mua do gia dung nho,264000,The,Bo sung vat dung can thiet
+2025-05-01,Nha o,Tien tro hang thang,611000,Chuyen khoan,Thanh toan dinh ky
+2025-06-04,An uong,An toi cuoi tuan,190000,Vi dien tu,Phuc vu lich hoc va lam
+2025-07-07,Di chuyen,Di xe cong nghe,198000,Tien mat,Di hoc va di lam
+2025-08-10,Hoc tap,Mua khoa hoc online,451000,The,Phuc vu bai tap va bao cao
+2025-09-13,Giai tri,Xem phim,326000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-10-16,Suc khoe,Kham tong quat,411000,Tien mat,Cham soc suc khoe dinh ky
+2025-11-19,Mua sam,Mua phu kien hoc tap,491000,Vi dien tu,Can can nhac truoc khi mua
+2025-12-22,Nha o,Bao tri phong tro,824000,The,Phat sinh trong thang
+2025-01-25,An uong,Ca phe buoi sang,162000,Tien mat,Chi phi hang ngay
+2025-02-28,Di chuyen,Gui xe,160000,Vi dien tu,Phat sinh di lai trong thang
+2025-03-03,Hoc tap,In tai lieu,293000,Chuyen khoan,Nang cao kien thuc
+2025-04-06,Giai tri,Dang ky nen tang giai tri,243000,The,Thu gian cuoi tuan
+2025-05-09,Suc khoe,Mua thuoc,298000,The,Du phong cho suc khoe
+2025-06-12,Mua sam,Mua quan ao,358000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-07-15,Nha o,Phi internet,616000,Chuyen khoan,Chi phi sinh hoat can thiet
+2025-08-18,An uong,An trua van phong,157000,The,Du tru bua an trong tuan
+2025-09-21,Di chuyen,Do xang xe,169000,Chuyen khoan,Bao tri phuong tien
+2025-10-24,Hoc tap,Le phi thi,470000,The,Dau tu cho ky nang
+2025-11-27,Giai tri,Ve su kien,315000,Vi dien tu,Chi phi giai tri theo thang
+2025-12-02,Suc khoe,Mua vitamin,412000,Chuyen khoan,Phat sinh khong deu
+2025-01-05,Mua sam,Mua do dung ca nhan,140000,The,Bo sung vat dung can thiet
+2025-02-08,Nha o,Tien dien nuoc,493000,The,Thanh toan dinh ky
+2025-03-11,An uong,Dat do an online,129000,Vi dien tu,Phuc vu lich hoc va lam
+2025-04-14,Di chuyen,Bao duong xe may,131000,Tien mat,Di hoc va di lam
+2025-05-17,Hoc tap,Mua sach,312000,Chuyen khoan,Phuc vu bai tap va bao cao
+2025-06-20,Giai tri,Ca phe voi ban be,232000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-07-23,Suc khoe,Kham rang,299000,Tien mat,Cham soc suc khoe dinh ky
+2025-08-26,Mua sam,Mua do gia dung nho,367000,Vi dien tu,Can can nhac truoc khi mua
+2025-09-01,Nha o,Tien tro hang thang,706000,Chuyen khoan,Phat sinh trong thang
+2025-10-04,An uong,Mua thuc pham,209000,Tien mat,Chi phi hang ngay
+2025-11-07,Di chuyen,Di xe cong nghe,225000,Vi dien tu,Phat sinh di lai trong thang
+2025-12-10,Hoc tap,Hoc phi khoa ngan han,574000,The,Nang cao kien thuc
+2025-01-13,Giai tri,Du lich ngan ngay,149000,The,Thu gian cuoi tuan
+2025-02-16,Suc khoe,Kham tong quat,186000,The,Du phong cho suc khoe
+2025-03-19,Mua sam,Mua phu kien hoc tap,234000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-04-22,Nha o,Bao tri phong tro,583000,The,Chi phi sinh hoat can thiet
+2025-05-25,An uong,An toi cuoi tuan,181000,The,Du tru bua an trong tuan
+2025-06-28,Di chuyen,Gui xe,187000,Chuyen khoan,Bao tri phuong tien
+2025-07-03,Hoc tap,Mua khoa hoc online,416000,Chuyen khoan,Dau tu cho ky nang
+2025-08-06,Giai tri,Xem phim,306000,Vi dien tu,Chi phi giai tri theo thang
+2025-09-09,Suc khoe,Mua thuoc,385000,Chuyen khoan,Phat sinh khong deu
+2025-10-12,Mua sam,Mua quan ao,461000,The,Bo sung vat dung can thiet
+2025-11-15,Nha o,Phi internet,796000,Chuyen khoan,Thanh toan dinh ky
+2025-12-18,An uong,Ca phe buoi sang,261000,Vi dien tu,Phuc vu lich hoc va lam
+2025-01-21,Di chuyen,Do xang xe,149000,Tien mat,Di hoc va di lam
+2025-02-24,Hoc tap,In tai lieu,258000,The,Phuc vu bai tap va bao cao
+2025-03-27,Giai tri,Dang ky nen tang giai tri,223000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-04-02,Suc khoe,Mua vitamin,272000,Tien mat,Cham soc suc khoe dinh ky
+2025-05-05,Mua sam,Mua do dung ca nhan,328000,Vi dien tu,Can can nhac truoc khi mua
+2025-06-08,Nha o,Tien dien nuoc,588000,The,Phat sinh trong thang
+2025-07-11,An uong,An trua van phong,148000,Tien mat,Chi phi hang ngay
+2025-08-14,Di chuyen,Bao duong xe may,158000,Vi dien tu,Phat sinh di lai trong thang
+2025-09-17,Hoc tap,Le phi thi,435000,Chuyen khoan,Nang cao kien thuc
+2025-10-20,Giai tri,Ve su kien,295000,The,Thu gian cuoi tuan
+2025-11-23,Suc khoe,Kham rang,386000,The,Du phong cho suc khoe
+2025-12-26,Mua sam,Mua do gia dung nho,470000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-01-01,Nha o,Tien tro hang thang,465000,Chuyen khoan,Chi phi sinh hoat can thiet
+2025-02-04,An uong,Dat do an online,120000,The,Du tru bua an trong tuan
+2025-03-07,Di chuyen,Di xe cong nghe,120000,Chuyen khoan,Bao tri phuong tien
+2025-04-10,Hoc tap,Mua sach,277000,The,Dau tu cho ky nang
+2025-05-13,Giai tri,Ca phe voi ban be,212000,Vi dien tu,Chi phi giai tri theo thang
+2025-06-16,Suc khoe,Kham tong quat,273000,Chuyen khoan,Phat sinh khong deu
+2025-07-19,Mua sam,Mua phu kien hoc tap,337000,The,Bo sung vat dung can thiet
+2025-08-22,Nha o,Bao tri phong tro,678000,The,Thanh toan dinh ky
+2025-09-25,An uong,Mua thuc pham,200000,Vi dien tu,Phuc vu lich hoc va lam
+2025-10-28,Di chuyen,Gui xe,214000,Tien mat,Di hoc va di lam
+2025-11-03,Hoc tap,Hoc phi khoa ngan han,539000,Chuyen khoan,Phuc vu bai tap va bao cao
+2025-12-06,Giai tri,Du lich ngan ngay,369000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-01-09,Suc khoe,Mua thuoc,160000,Tien mat,Cham soc suc khoe dinh ky
+2025-02-12,Mua sam,Mua quan ao,204000,Vi dien tu,Can can nhac truoc khi mua
+2025-03-15,Nha o,Phi internet,555000,Chuyen khoan,Phat sinh trong thang
+2025-04-18,An uong,An toi cuoi tuan,172000,Tien mat,Chi phi hang ngay
+2025-05-21,Di chuyen,Do xang xe,176000,Vi dien tu,Phat sinh di lai trong thang
+2025-06-24,Hoc tap,Mua khoa hoc online,381000,The,Nang cao kien thuc
+2025-07-27,Giai tri,Xem phim,286000,The,Thu gian cuoi tuan
+2025-08-02,Suc khoe,Mua vitamin,359000,The,Du phong cho suc khoe
+2025-09-05,Mua sam,Mua do dung ca nhan,431000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-10-08,Nha o,Tien dien nuoc,768000,The,Chi phi sinh hoat can thiet
+2025-11-11,An uong,Ca phe buoi sang,252000,The,Du tru bua an trong tuan
+2025-12-14,Di chuyen,Bao duong xe may,270000,Chuyen khoan,Bao tri phuong tien
+2025-01-17,Hoc tap,In tai lieu,223000,Chuyen khoan,Dau tu cho ky nang
+2025-02-20,Giai tri,Dang ky nen tang giai tri,203000,Vi dien tu,Chi phi giai tri theo thang
+2025-03-23,Suc khoe,Kham rang,246000,Chuyen khoan,Phat sinh khong deu
+2025-04-26,Mua sam,Mua do gia dung nho,298000,The,Bo sung vat dung can thiet
+2025-05-01,Nha o,Tien tro hang thang,560000,Chuyen khoan,Thanh toan dinh ky
+2025-06-04,An uong,An trua van phong,139000,Vi dien tu,Phuc vu lich hoc va lam
+2025-07-07,Di chuyen,Di xe cong nghe,147000,Tien mat,Di hoc va di lam
+2025-08-10,Hoc tap,Le phi thi,400000,The,Phuc vu bai tap va bao cao
+2025-09-13,Giai tri,Ve su kien,275000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-10-16,Suc khoe,Kham tong quat,360000,Tien mat,Cham soc suc khoe dinh ky
+2025-11-19,Mua sam,Mua phu kien hoc tap,440000,Vi dien tu,Can can nhac truoc khi mua
+2025-12-22,Nha o,Bao tri phong tro,773000,The,Phat sinh trong thang
+2025-01-25,An uong,Dat do an online,111000,Tien mat,Chi phi hang ngay
+2025-02-28,Di chuyen,Gui xe,109000,Vi dien tu,Phat sinh di lai trong thang
+2025-03-03,Hoc tap,Mua sach,242000,Chuyen khoan,Nang cao kien thuc
+2025-04-06,Giai tri,Ca phe voi ban be,192000,The,Thu gian cuoi tuan
+2025-05-09,Suc khoe,Mua thuoc,247000,The,Du phong cho suc khoe
+2025-06-12,Mua sam,Mua quan ao,307000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-07-15,Nha o,Phi internet,650000,Chuyen khoan,Chi phi sinh hoat can thiet
+2025-08-18,An uong,Mua thuc pham,191000,The,Du tru bua an trong tuan
+2025-09-21,Di chuyen,Do xang xe,203000,Chuyen khoan,Bao tri phuong tien
+2025-10-24,Hoc tap,Hoc phi khoa ngan han,504000,The,Dau tu cho ky nang
+2025-11-27,Giai tri,Du lich ngan ngay,349000,Vi dien tu,Chi phi giai tri theo thang
+2025-12-02,Suc khoe,Mua vitamin,446000,Chuyen khoan,Phat sinh khong deu
+2025-01-05,Mua sam,Mua do dung ca nhan,174000,The,Bo sung vat dung can thiet
+2025-02-08,Nha o,Tien dien nuoc,527000,The,Thanh toan dinh ky
+2025-03-11,An uong,An toi cuoi tuan,163000,Vi dien tu,Phuc vu lich hoc va lam
+2025-04-14,Di chuyen,Bao duong xe may,165000,Tien mat,Di hoc va di lam
+2025-05-17,Hoc tap,Mua khoa hoc online,346000,Chuyen khoan,Phuc vu bai tap va bao cao
+2025-06-20,Giai tri,Xem phim,266000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-07-23,Suc khoe,Kham rang,333000,Tien mat,Cham soc suc khoe dinh ky
+2025-08-26,Mua sam,Mua do gia dung nho,401000,Vi dien tu,Can can nhac truoc khi mua
+2025-09-01,Nha o,Tien tro hang thang,740000,Chuyen khoan,Phat sinh trong thang
+2025-10-04,An uong,Ca phe buoi sang,243000,Tien mat,Chi phi hang ngay
+2025-11-07,Di chuyen,Di xe cong nghe,259000,Vi dien tu,Phat sinh di lai trong thang
+2025-12-10,Hoc tap,In tai lieu,608000,The,Nang cao kien thuc
+2025-01-13,Giai tri,Dang ky nen tang giai tri,183000,The,Thu gian cuoi tuan
+2025-02-16,Suc khoe,Kham tong quat,220000,The,Du phong cho suc khoe
+2025-03-19,Mua sam,Mua phu kien hoc tap,268000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-04-22,Nha o,Bao tri phong tro,532000,The,Chi phi sinh hoat can thiet
+2025-05-25,An uong,An trua van phong,130000,The,Du tru bua an trong tuan
+2025-06-28,Di chuyen,Gui xe,136000,Chuyen khoan,Bao tri phuong tien
+2025-07-03,Hoc tap,Le phi thi,365000,Chuyen khoan,Dau tu cho ky nang
+2025-08-06,Giai tri,Ve su kien,255000,Vi dien tu,Chi phi giai tri theo thang
+2025-09-09,Suc khoe,Mua thuoc,334000,Chuyen khoan,Phat sinh khong deu
+2025-10-12,Mua sam,Mua quan ao,410000,The,Bo sung vat dung can thiet
+2025-11-15,Nha o,Phi internet,745000,Chuyen khoan,Thanh toan dinh ky
+2025-12-18,An uong,Dat do an online,210000,Vi dien tu,Phuc vu lich hoc va lam
+2025-01-21,Di chuyen,Do xang xe,98000,Tien mat,Di hoc va di lam
+2025-02-24,Hoc tap,Mua sach,207000,The,Phuc vu bai tap va bao cao
+2025-03-27,Giai tri,Ca phe voi ban be,172000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-04-02,Suc khoe,Mua vitamin,221000,Tien mat,Cham soc suc khoe dinh ky
+2025-05-05,Mua sam,Mua do dung ca nhan,277000,Vi dien tu,Can can nhac truoc khi mua
+2025-06-08,Nha o,Tien dien nuoc,622000,The,Phat sinh trong thang
+2025-07-11,An uong,Mua thuc pham,182000,Tien mat,Chi phi hang ngay
+2025-08-14,Di chuyen,Bao duong xe may,192000,Vi dien tu,Phat sinh di lai trong thang
+2025-09-17,Hoc tap,Hoc phi khoa ngan han,469000,Chuyen khoan,Nang cao kien thuc
+2025-10-20,Giai tri,Du lich ngan ngay,329000,The,Thu gian cuoi tuan
+2025-11-23,Suc khoe,Kham rang,420000,The,Du phong cho suc khoe
+2025-12-26,Mua sam,Mua do gia dung nho,504000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-01-01,Nha o,Tien tro hang thang,499000,Chuyen khoan,Chi phi sinh hoat can thiet
+2025-02-04,An uong,An toi cuoi tuan,154000,The,Du tru bua an trong tuan
+2025-03-07,Di chuyen,Di xe cong nghe,154000,Chuyen khoan,Bao tri phuong tien
+2025-04-10,Hoc tap,Mua khoa hoc online,311000,The,Dau tu cho ky nang
+2025-05-13,Giai tri,Xem phim,246000,Vi dien tu,Chi phi giai tri theo thang
+2025-06-16,Suc khoe,Kham tong quat,307000,Chuyen khoan,Phat sinh khong deu
+2025-07-19,Mua sam,Mua phu kien hoc tap,371000,The,Bo sung vat dung can thiet
+2025-08-22,Nha o,Bao tri phong tro,712000,The,Thanh toan dinh ky
+2025-09-25,An uong,Ca phe buoi sang,234000,Vi dien tu,Phuc vu lich hoc va lam
+2025-10-28,Di chuyen,Gui xe,248000,Tien mat,Di hoc va di lam
+2025-11-03,Hoc tap,In tai lieu,573000,Chuyen khoan,Phuc vu bai tap va bao cao
+2025-12-06,Giai tri,Dang ky nen tang giai tri,403000,Tien mat,Can theo doi de tranh vuot ngan sach
+2025-01-09,Suc khoe,Mua thuoc,194000,Tien mat,Cham soc suc khoe dinh ky
+2025-02-12,Mua sam,Mua quan ao,238000,Vi dien tu,Can can nhac truoc khi mua
+2025-03-15,Nha o,Phi internet,504000,Chuyen khoan,Phat sinh trong thang
+2025-04-18,An uong,An trua van phong,121000,Tien mat,Chi phi hang ngay
+2025-05-21,Di chuyen,Do xang xe,125000,Vi dien tu,Phat sinh di lai trong thang
+2025-06-24,Hoc tap,Le phi thi,330000,The,Nang cao kien thuc
+2025-07-27,Giai tri,Ve su kien,235000,The,Thu gian cuoi tuan
+2025-08-02,Suc khoe,Mua vitamin,308000,The,Du phong cho suc khoe
+2025-09-05,Mua sam,Mua do dung ca nhan,380000,Tien mat,Phuc vu sinh hoat ca nhan
+2025-10-08,Nha o,Tien dien nuoc,717000,The,Chi phi sinh hoat can thiet
+2025-11-11,An uong,Dat do an online,201000,The,Du tru bua an trong tuan
+2025-12-14,Di chuyen,Bao duong xe may,219000,Chuyen khoan,Bao tri phuong tien
+2025-01-17,Hoc tap,Mua sach,172000,Chuyen khoan,Dau tu cho ky nang
+2025-02-20,Giai tri,Ca phe voi ban be,152000,Vi dien tu,Chi phi giai tri theo thang
+2025-03-23,Suc khoe,Kham rang,195000,Chuyen khoan,Phat sinh khong deu
+2025-04-26,Mua sam,Mua do gia dung nho,247000,The,Bo sung vat dung can thiet
+2025-05-01,Nha o,Tien tro hang thang,594000,Chuyen khoan,Thanh toan dinh ky
+2026-06-04,An uong,Mua thuc pham,173000,Vi dien tu,Phuc vu lich hoc va lam
+2026-07-07,Di chuyen,Di xe cong nghe,181000,Tien mat,Di hoc va di lam
+2026-08-10,Hoc tap,Hoc phi khoa ngan han,434000,The,Phuc vu bai tap va bao cao
+2026-09-13,Giai tri,Du lich ngan ngay,309000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-10-16,Suc khoe,Kham tong quat,394000,Tien mat,Cham soc suc khoe dinh ky
+2026-11-19,Mua sam,Mua phu kien hoc tap,474000,Vi dien tu,Can can nhac truoc khi mua
+2026-12-22,Nha o,Bao tri phong tro,807000,The,Phat sinh trong thang
+2026-01-25,An uong,An toi cuoi tuan,145000,Tien mat,Chi phi hang ngay
+2026-02-28,Di chuyen,Gui xe,143000,Vi dien tu,Phat sinh di lai trong thang
+2026-03-03,Hoc tap,Mua khoa hoc online,276000,Chuyen khoan,Nang cao kien thuc
+2026-04-06,Giai tri,Xem phim,226000,The,Thu gian cuoi tuan
+2026-05-09,Suc khoe,Mua thuoc,281000,The,Du phong cho suc khoe
+2026-06-12,Mua sam,Mua quan ao,341000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-07-15,Nha o,Phi internet,684000,Chuyen khoan,Chi phi sinh hoat can thiet
+2026-08-18,An uong,Ca phe buoi sang,225000,The,Du tru bua an trong tuan
+2026-09-21,Di chuyen,Do xang xe,237000,Chuyen khoan,Bao tri phuong tien
+2026-10-24,Hoc tap,In tai lieu,538000,The,Dau tu cho ky nang
+2026-11-27,Giai tri,Dang ky nen tang giai tri,383000,Vi dien tu,Chi phi giai tri theo thang
+2026-12-02,Suc khoe,Mua vitamin,480000,Chuyen khoan,Phat sinh khong deu
+2026-01-05,Mua sam,Mua do dung ca nhan,208000,The,Bo sung vat dung can thiet
+2026-02-08,Nha o,Tien dien nuoc,476000,The,Thanh toan dinh ky
+2026-03-11,An uong,An trua van phong,112000,Vi dien tu,Phuc vu lich hoc va lam
+2026-04-14,Di chuyen,Bao duong xe may,114000,Tien mat,Di hoc va di lam
+2026-05-17,Hoc tap,Le phi thi,295000,Chuyen khoan,Phuc vu bai tap va bao cao
+2026-06-20,Giai tri,Ve su kien,215000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-07-23,Suc khoe,Kham rang,282000,Tien mat,Cham soc suc khoe dinh ky
+2026-08-26,Mua sam,Mua do gia dung nho,350000,Vi dien tu,Can can nhac truoc khi mua
+2026-09-01,Nha o,Tien tro hang thang,689000,Chuyen khoan,Phat sinh trong thang
+2026-10-04,An uong,Dat do an online,192000,Tien mat,Chi phi hang ngay
+2026-11-07,Di chuyen,Di xe cong nghe,208000,Vi dien tu,Phat sinh di lai trong thang
+2026-12-10,Hoc tap,Mua sach,557000,The,Nang cao kien thuc
+2026-01-13,Giai tri,Ca phe voi ban be,132000,The,Thu gian cuoi tuan
+2026-02-16,Suc khoe,Kham tong quat,169000,The,Du phong cho suc khoe
+2026-03-19,Mua sam,Mua phu kien hoc tap,217000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-04-22,Nha o,Bao tri phong tro,566000,The,Chi phi sinh hoat can thiet
+2026-05-25,An uong,Mua thuc pham,164000,The,Du tru bua an trong tuan
+2026-06-28,Di chuyen,Gui xe,170000,Chuyen khoan,Bao tri phuong tien
+2026-07-03,Hoc tap,Hoc phi khoa ngan han,399000,Chuyen khoan,Dau tu cho ky nang
+2026-08-06,Giai tri,Du lich ngan ngay,289000,Vi dien tu,Chi phi giai tri theo thang
+2026-09-09,Suc khoe,Mua thuoc,368000,Chuyen khoan,Phat sinh khong deu
+2026-10-12,Mua sam,Mua quan ao,444000,The,Bo sung vat dung can thiet
+2026-11-15,Nha o,Phi internet,779000,Chuyen khoan,Thanh toan dinh ky
+2026-12-18,An uong,An toi cuoi tuan,244000,Vi dien tu,Phuc vu lich hoc va lam
+2026-01-21,Di chuyen,Do xang xe,132000,Tien mat,Di hoc va di lam
+2026-02-24,Hoc tap,Mua khoa hoc online,241000,The,Phuc vu bai tap va bao cao
+2026-03-27,Giai tri,Xem phim,206000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-04-02,Suc khoe,Mua vitamin,255000,Tien mat,Cham soc suc khoe dinh ky
+2026-05-05,Mua sam,Mua do dung ca nhan,311000,Vi dien tu,Can can nhac truoc khi mua
+2026-06-08,Nha o,Tien dien nuoc,656000,The,Phat sinh trong thang
+2026-07-11,An uong,Ca phe buoi sang,216000,Tien mat,Chi phi hang ngay
+2026-08-14,Di chuyen,Bao duong xe may,226000,Vi dien tu,Phat sinh di lai trong thang
+2026-09-17,Hoc tap,In tai lieu,503000,Chuyen khoan,Nang cao kien thuc
+2026-10-20,Giai tri,Dang ky nen tang giai tri,363000,The,Thu gian cuoi tuan
+2026-11-23,Suc khoe,Kham rang,454000,The,Du phong cho suc khoe
+2026-12-26,Mua sam,Mua do gia dung nho,538000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-01-01,Nha o,Tien tro hang thang,448000,Chuyen khoan,Chi phi sinh hoat can thiet
+2026-02-04,An uong,An trua van phong,103000,The,Du tru bua an trong tuan
+2026-03-07,Di chuyen,Di xe cong nghe,103000,Chuyen khoan,Bao tri phuong tien
+2026-04-10,Hoc tap,Le phi thi,260000,The,Dau tu cho ky nang
+2026-05-13,Giai tri,Ve su kien,195000,Vi dien tu,Chi phi giai tri theo thang
+2026-06-16,Suc khoe,Kham tong quat,256000,Chuyen khoan,Phat sinh khong deu
+2026-07-19,Mua sam,Mua phu kien hoc tap,320000,The,Bo sung vat dung can thiet
+2026-08-22,Nha o,Bao tri phong tro,661000,The,Thanh toan dinh ky
+2026-09-25,An uong,Dat do an online,183000,Vi dien tu,Phuc vu lich hoc va lam
+2026-10-28,Di chuyen,Gui xe,197000,Tien mat,Di hoc va di lam
+2026-11-03,Hoc tap,Mua sach,522000,Chuyen khoan,Phuc vu bai tap va bao cao
+2026-12-06,Giai tri,Ca phe voi ban be,352000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-01-09,Suc khoe,Mua thuoc,143000,Tien mat,Cham soc suc khoe dinh ky
+2026-02-12,Mua sam,Mua quan ao,187000,Vi dien tu,Can can nhac truoc khi mua
+2026-03-15,Nha o,Phi internet,538000,Chuyen khoan,Phat sinh trong thang
+2026-04-18,An uong,Mua thuc pham,155000,Tien mat,Chi phi hang ngay
+2026-05-21,Di chuyen,Do xang xe,159000,Vi dien tu,Phat sinh di lai trong thang
+2026-06-24,Hoc tap,Hoc phi khoa ngan han,364000,The,Nang cao kien thuc
+2026-07-27,Giai tri,Du lich ngan ngay,269000,The,Thu gian cuoi tuan
+2026-08-02,Suc khoe,Mua vitamin,342000,The,Du phong cho suc khoe
+2026-09-05,Mua sam,Mua do dung ca nhan,414000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-10-08,Nha o,Tien dien nuoc,751000,The,Chi phi sinh hoat can thiet
+2026-11-11,An uong,An toi cuoi tuan,235000,The,Du tru bua an trong tuan
+2026-12-14,Di chuyen,Bao duong xe may,253000,Chuyen khoan,Bao tri phuong tien
+2026-01-17,Hoc tap,Mua khoa hoc online,206000,Chuyen khoan,Dau tu cho ky nang
+2026-02-20,Giai tri,Xem phim,186000,Vi dien tu,Chi phi giai tri theo thang
+2026-03-23,Suc khoe,Kham rang,229000,Chuyen khoan,Phat sinh khong deu
+2026-04-26,Mua sam,Mua do gia dung nho,281000,The,Bo sung vat dung can thiet
+2026-05-01,Nha o,Tien tro hang thang,628000,Chuyen khoan,Thanh toan dinh ky
+2026-06-04,An uong,Ca phe buoi sang,207000,Vi dien tu,Phuc vu lich hoc va lam
+2026-07-07,Di chuyen,Di xe cong nghe,215000,Tien mat,Di hoc va di lam
+2026-08-10,Hoc tap,In tai lieu,468000,The,Phuc vu bai tap va bao cao
+2026-09-13,Giai tri,Dang ky nen tang giai tri,343000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-10-16,Suc khoe,Kham tong quat,428000,Tien mat,Cham soc suc khoe dinh ky
+2026-11-19,Mua sam,Mua phu kien hoc tap,508000,Vi dien tu,Can can nhac truoc khi mua
+2026-12-22,Nha o,Bao tri phong tro,756000,The,Phat sinh trong thang
+2026-01-25,An uong,An trua van phong,94000,Tien mat,Chi phi hang ngay
+2026-02-28,Di chuyen,Gui xe,92000,Vi dien tu,Phat sinh di lai trong thang
+2026-03-03,Hoc tap,Le phi thi,225000,Chuyen khoan,Nang cao kien thuc
+2026-04-06,Giai tri,Ve su kien,175000,The,Thu gian cuoi tuan
+2026-05-09,Suc khoe,Mua thuoc,230000,The,Du phong cho suc khoe
+2026-06-12,Mua sam,Mua quan ao,290000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-07-15,Nha o,Phi internet,633000,Chuyen khoan,Chi phi sinh hoat can thiet
+2026-08-18,An uong,Dat do an online,174000,The,Du tru bua an trong tuan
+2026-09-21,Di chuyen,Do xang xe,186000,Chuyen khoan,Bao tri phuong tien
+2026-10-24,Hoc tap,Mua sach,487000,The,Dau tu cho ky nang
+2026-11-27,Giai tri,Ca phe voi ban be,332000,Vi dien tu,Chi phi giai tri theo thang
+2026-12-02,Suc khoe,Mua vitamin,429000,Chuyen khoan,Phat sinh khong deu
+2026-01-05,Mua sam,Mua do dung ca nhan,157000,The,Bo sung vat dung can thiet
+2026-02-08,Nha o,Tien dien nuoc,510000,The,Thanh toan dinh ky
+2026-03-11,An uong,Mua thuc pham,146000,Vi dien tu,Phuc vu lich hoc va lam
+2026-04-14,Di chuyen,Bao duong xe may,148000,Tien mat,Di hoc va di lam
+2026-05-17,Hoc tap,Hoc phi khoa ngan han,329000,Chuyen khoan,Phuc vu bai tap va bao cao
+2026-06-20,Giai tri,Du lich ngan ngay,249000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-07-23,Suc khoe,Kham rang,316000,Tien mat,Cham soc suc khoe dinh ky
+2026-08-26,Mua sam,Mua do gia dung nho,384000,Vi dien tu,Can can nhac truoc khi mua
+2026-09-01,Nha o,Tien tro hang thang,723000,Chuyen khoan,Phat sinh trong thang
+2026-10-04,An uong,An toi cuoi tuan,226000,Tien mat,Chi phi hang ngay
+2026-11-07,Di chuyen,Di xe cong nghe,242000,Vi dien tu,Phat sinh di lai trong thang
+2026-12-10,Hoc tap,Mua khoa hoc online,591000,The,Nang cao kien thuc
+2026-01-13,Giai tri,Xem phim,166000,The,Thu gian cuoi tuan
+2026-02-16,Suc khoe,Kham tong quat,203000,The,Du phong cho suc khoe
+2026-03-19,Mua sam,Mua phu kien hoc tap,251000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-04-22,Nha o,Bao tri phong tro,600000,The,Chi phi sinh hoat can thiet
+2026-05-25,An uong,Ca phe buoi sang,198000,The,Du tru bua an trong tuan
+2026-06-28,Di chuyen,Gui xe,204000,Chuyen khoan,Bao tri phuong tien
+2026-07-03,Hoc tap,In tai lieu,433000,Chuyen khoan,Dau tu cho ky nang
+2026-08-06,Giai tri,Dang ky nen tang giai tri,323000,Vi dien tu,Chi phi giai tri theo thang
+2026-09-09,Suc khoe,Mua thuoc,402000,Chuyen khoan,Phat sinh khong deu
+2026-10-12,Mua sam,Mua quan ao,478000,The,Bo sung vat dung can thiet
+2026-11-15,Nha o,Phi internet,728000,Chuyen khoan,Thanh toan dinh ky
+2026-12-18,An uong,An trua van phong,193000,Vi dien tu,Phuc vu lich hoc va lam
+2026-01-21,Di chuyen,Do xang xe,81000,Tien mat,Di hoc va di lam
+2026-02-24,Hoc tap,Le phi thi,190000,The,Phuc vu bai tap va bao cao
+2026-03-27,Giai tri,Ve su kien,155000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-04-02,Suc khoe,Mua vitamin,204000,Tien mat,Cham soc suc khoe dinh ky
+2026-05-05,Mua sam,Mua do dung ca nhan,260000,Vi dien tu,Can can nhac truoc khi mua
+2026-06-08,Nha o,Tien dien nuoc,605000,The,Phat sinh trong thang
+2026-07-11,An uong,Dat do an online,165000,Tien mat,Chi phi hang ngay
+2026-08-14,Di chuyen,Bao duong xe may,175000,Vi dien tu,Phat sinh di lai trong thang
+2026-09-17,Hoc tap,Mua sach,452000,Chuyen khoan,Nang cao kien thuc
+2026-10-20,Giai tri,Ca phe voi ban be,312000,The,Thu gian cuoi tuan
+2026-11-23,Suc khoe,Kham rang,403000,The,Du phong cho suc khoe
+2026-12-26,Mua sam,Mua do gia dung nho,487000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-01-01,Nha o,Tien tro hang thang,482000,Chuyen khoan,Chi phi sinh hoat can thiet
+2026-02-04,An uong,Mua thuc pham,137000,The,Du tru bua an trong tuan
+2026-03-07,Di chuyen,Di xe cong nghe,137000,Chuyen khoan,Bao tri phuong tien
+2026-04-10,Hoc tap,Hoc phi khoa ngan han,294000,The,Dau tu cho ky nang
+2026-05-13,Giai tri,Du lich ngan ngay,229000,Vi dien tu,Chi phi giai tri theo thang
+2026-06-16,Suc khoe,Kham tong quat,290000,Chuyen khoan,Phat sinh khong deu
+2026-07-19,Mua sam,Mua phu kien hoc tap,354000,The,Bo sung vat dung can thiet
+2026-08-22,Nha o,Bao tri phong tro,695000,The,Thanh toan dinh ky
+2026-09-25,An uong,An toi cuoi tuan,217000,Vi dien tu,Phuc vu lich hoc va lam
+2026-10-28,Di chuyen,Gui xe,231000,Tien mat,Di hoc va di lam
+2026-11-03,Hoc tap,Mua khoa hoc online,556000,Chuyen khoan,Phuc vu bai tap va bao cao
+2026-12-06,Giai tri,Xem phim,386000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-01-09,Suc khoe,Mua thuoc,177000,Tien mat,Cham soc suc khoe dinh ky
+2026-02-12,Mua sam,Mua quan ao,221000,Vi dien tu,Can can nhac truoc khi mua
+2026-03-15,Nha o,Phi internet,572000,Chuyen khoan,Phat sinh trong thang
+2026-04-18,An uong,Ca phe buoi sang,189000,Tien mat,Chi phi hang ngay
+2026-05-21,Di chuyen,Do xang xe,193000,Vi dien tu,Phat sinh di lai trong thang
+2026-06-24,Hoc tap,In tai lieu,398000,The,Nang cao kien thuc
+2026-07-27,Giai tri,Dang ky nen tang giai tri,303000,The,Thu gian cuoi tuan
+2026-08-02,Suc khoe,Mua vitamin,376000,The,Du phong cho suc khoe
+2026-09-05,Mua sam,Mua do dung ca nhan,448000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-10-08,Nha o,Tien dien nuoc,700000,The,Chi phi sinh hoat can thiet
+2026-11-11,An uong,An trua van phong,184000,The,Du tru bua an trong tuan
+2026-12-14,Di chuyen,Bao duong xe may,202000,Chuyen khoan,Bao tri phuong tien
+2026-01-17,Hoc tap,Le phi thi,155000,Chuyen khoan,Dau tu cho ky nang
+2026-02-20,Giai tri,Ve su kien,135000,Vi dien tu,Chi phi giai tri theo thang
+2026-03-23,Suc khoe,Kham rang,178000,Chuyen khoan,Phat sinh khong deu
+2026-04-26,Mua sam,Mua do gia dung nho,230000,The,Bo sung vat dung can thiet
+2026-05-01,Nha o,Tien tro hang thang,577000,Chuyen khoan,Thanh toan dinh ky
+2026-06-04,An uong,Dat do an online,156000,Vi dien tu,Phuc vu lich hoc va lam
+2026-07-07,Di chuyen,Di xe cong nghe,164000,Tien mat,Di hoc va di lam
+2026-08-10,Hoc tap,Mua sach,417000,The,Phuc vu bai tap va bao cao
+2026-09-13,Giai tri,Ca phe voi ban be,292000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-10-16,Suc khoe,Kham tong quat,377000,Tien mat,Cham soc suc khoe dinh ky
+2026-11-19,Mua sam,Mua phu kien hoc tap,457000,Vi dien tu,Can can nhac truoc khi mua
+2026-12-22,Nha o,Bao tri phong tro,790000,The,Phat sinh trong thang
+2026-01-25,An uong,Mua thuc pham,128000,Tien mat,Chi phi hang ngay
+2026-02-28,Di chuyen,Gui xe,126000,Vi dien tu,Phat sinh di lai trong thang
+2026-03-03,Hoc tap,Hoc phi khoa ngan han,259000,Chuyen khoan,Nang cao kien thuc
+2026-04-06,Giai tri,Du lich ngan ngay,209000,The,Thu gian cuoi tuan
+2026-05-09,Suc khoe,Mua thuoc,264000,The,Du phong cho suc khoe
+2026-06-12,Mua sam,Mua quan ao,324000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-07-15,Nha o,Phi internet,667000,Chuyen khoan,Chi phi sinh hoat can thiet
+2026-08-18,An uong,An toi cuoi tuan,208000,The,Du tru bua an trong tuan
+2026-09-21,Di chuyen,Do xang xe,220000,Chuyen khoan,Bao tri phuong tien
+2026-10-24,Hoc tap,Mua khoa hoc online,521000,The,Dau tu cho ky nang
+2026-11-27,Giai tri,Xem phim,366000,Vi dien tu,Chi phi giai tri theo thang
+2026-12-02,Suc khoe,Mua vitamin,463000,Chuyen khoan,Phat sinh khong deu
+2026-01-05,Mua sam,Mua do dung ca nhan,191000,The,Bo sung vat dung can thiet
+2026-02-08,Nha o,Tien dien nuoc,544000,The,Thanh toan dinh ky
+2026-03-11,An uong,Ca phe buoi sang,180000,Vi dien tu,Phuc vu lich hoc va lam
+2026-04-14,Di chuyen,Bao duong xe may,182000,Tien mat,Di hoc va di lam
+2026-05-17,Hoc tap,In tai lieu,363000,Chuyen khoan,Phuc vu bai tap va bao cao
+2026-06-20,Giai tri,Dang ky nen tang giai tri,283000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-07-23,Suc khoe,Kham rang,350000,Tien mat,Cham soc suc khoe dinh ky
+2026-08-26,Mua sam,Mua do gia dung nho,418000,Vi dien tu,Can can nhac truoc khi mua
+2026-09-01,Nha o,Tien tro hang thang,672000,Chuyen khoan,Phat sinh trong thang
+2026-10-04,An uong,An trua van phong,175000,Tien mat,Chi phi hang ngay
+2026-11-07,Di chuyen,Di xe cong nghe,191000,Vi dien tu,Phat sinh di lai trong thang
+2026-12-10,Hoc tap,Le phi thi,540000,The,Nang cao kien thuc
+2026-01-13,Giai tri,Ve su kien,115000,The,Thu gian cuoi tuan
+2026-02-16,Suc khoe,Kham tong quat,152000,The,Du phong cho suc khoe
+2026-03-19,Mua sam,Mua phu kien hoc tap,200000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-04-22,Nha o,Bao tri phong tro,549000,The,Chi phi sinh hoat can thiet
+2026-05-25,An uong,Dat do an online,147000,The,Du tru bua an trong tuan
+2026-06-28,Di chuyen,Gui xe,153000,Chuyen khoan,Bao tri phuong tien
+2026-07-03,Hoc tap,Mua sach,382000,Chuyen khoan,Dau tu cho ky nang
+2026-08-06,Giai tri,Ca phe voi ban be,272000,Vi dien tu,Chi phi giai tri theo thang
+2026-09-09,Suc khoe,Mua thuoc,351000,Chuyen khoan,Phat sinh khong deu
+2026-10-12,Mua sam,Mua quan ao,427000,The,Bo sung vat dung can thiet
+2026-11-15,Nha o,Phi internet,762000,Chuyen khoan,Thanh toan dinh ky
+2026-12-18,An uong,Mua thuc pham,227000,Vi dien tu,Phuc vu lich hoc va lam
+2026-01-21,Di chuyen,Do xang xe,115000,Tien mat,Di hoc va di lam
+2026-02-24,Hoc tap,Hoc phi khoa ngan han,224000,The,Phuc vu bai tap va bao cao
+2026-03-27,Giai tri,Du lich ngan ngay,189000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-04-02,Suc khoe,Mua vitamin,238000,Tien mat,Cham soc suc khoe dinh ky
+2026-05-05,Mua sam,Mua do dung ca nhan,294000,Vi dien tu,Can can nhac truoc khi mua
+2026-06-08,Nha o,Tien dien nuoc,639000,The,Phat sinh trong thang
+2026-07-11,An uong,An toi cuoi tuan,199000,Tien mat,Chi phi hang ngay
+2026-08-14,Di chuyen,Bao duong xe may,209000,Vi dien tu,Phat sinh di lai trong thang
+2026-09-17,Hoc tap,Mua khoa hoc online,486000,Chuyen khoan,Nang cao kien thuc
+2026-10-20,Giai tri,Xem phim,346000,The,Thu gian cuoi tuan
+2026-11-23,Suc khoe,Kham rang,437000,The,Du phong cho suc khoe
+2026-12-26,Mua sam,Mua do gia dung nho,521000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-01-01,Nha o,Tien tro hang thang,516000,Chuyen khoan,Chi phi sinh hoat can thiet
+2026-02-04,An uong,Ca phe buoi sang,171000,The,Du tru bua an trong tuan
+2026-03-07,Di chuyen,Di xe cong nghe,171000,Chuyen khoan,Bao tri phuong tien
+2026-04-10,Hoc tap,In tai lieu,328000,The,Dau tu cho ky nang
+2026-05-13,Giai tri,Dang ky nen tang giai tri,263000,Vi dien tu,Chi phi giai tri theo thang
+2026-06-16,Suc khoe,Kham tong quat,324000,Chuyen khoan,Phat sinh khong deu
+2026-07-19,Mua sam,Mua phu kien hoc tap,388000,The,Bo sung vat dung can thiet
+2026-08-22,Nha o,Bao tri phong tro,644000,The,Thanh toan dinh ky
+2026-09-25,An uong,An trua van phong,166000,Vi dien tu,Phuc vu lich hoc va lam
+2026-10-28,Di chuyen,Gui xe,180000,Tien mat,Di hoc va di lam
+2026-11-03,Hoc tap,Le phi thi,505000,Chuyen khoan,Phuc vu bai tap va bao cao
+2026-12-06,Giai tri,Ve su kien,335000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-01-09,Suc khoe,Mua thuoc,126000,Tien mat,Cham soc suc khoe dinh ky
+2026-02-12,Mua sam,Mua quan ao,170000,Vi dien tu,Can can nhac truoc khi mua
+2026-03-15,Nha o,Phi internet,521000,Chuyen khoan,Phat sinh trong thang
+2026-04-18,An uong,Dat do an online,138000,Tien mat,Chi phi hang ngay
+2026-05-21,Di chuyen,Do xang xe,142000,Vi dien tu,Phat sinh di lai trong thang
+2026-06-24,Hoc tap,Mua sach,347000,The,Nang cao kien thuc
+2026-07-27,Giai tri,Ca phe voi ban be,252000,The,Thu gian cuoi tuan
+2026-08-02,Suc khoe,Mua vitamin,325000,The,Du phong cho suc khoe
+2026-09-05,Mua sam,Mua do dung ca nhan,397000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-10-08,Nha o,Tien dien nuoc,734000,The,Chi phi sinh hoat can thiet
+2026-11-11,An uong,Mua thuc pham,218000,The,Du tru bua an trong tuan
+2026-12-14,Di chuyen,Bao duong xe may,236000,Chuyen khoan,Bao tri phuong tien
+2026-01-17,Hoc tap,Hoc phi khoa ngan han,189000,Chuyen khoan,Dau tu cho ky nang
+2026-02-20,Giai tri,Du lich ngan ngay,169000,Vi dien tu,Chi phi giai tri theo thang
+2026-03-23,Suc khoe,Kham rang,212000,Chuyen khoan,Phat sinh khong deu
+2026-04-26,Mua sam,Mua do gia dung nho,264000,The,Bo sung vat dung can thiet
+2026-05-01,Nha o,Tien tro hang thang,611000,Chuyen khoan,Thanh toan dinh ky
+2026-06-04,An uong,An toi cuoi tuan,190000,Vi dien tu,Phuc vu lich hoc va lam
+2026-07-07,Di chuyen,Di xe cong nghe,198000,Tien mat,Di hoc va di lam
+2026-08-10,Hoc tap,Mua khoa hoc online,451000,The,Phuc vu bai tap va bao cao
+2026-09-13,Giai tri,Xem phim,326000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-10-16,Suc khoe,Kham tong quat,411000,Tien mat,Cham soc suc khoe dinh ky
+2026-11-19,Mua sam,Mua phu kien hoc tap,491000,Vi dien tu,Can can nhac truoc khi mua
+2026-12-22,Nha o,Bao tri phong tro,824000,The,Phat sinh trong thang
+2026-01-25,An uong,Ca phe buoi sang,162000,Tien mat,Chi phi hang ngay
+2026-02-28,Di chuyen,Gui xe,160000,Vi dien tu,Phat sinh di lai trong thang
+2026-03-03,Hoc tap,In tai lieu,293000,Chuyen khoan,Nang cao kien thuc
+2026-04-06,Giai tri,Dang ky nen tang giai tri,243000,The,Thu gian cuoi tuan
+2026-05-09,Suc khoe,Mua thuoc,298000,The,Du phong cho suc khoe
+2026-06-12,Mua sam,Mua quan ao,358000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-07-15,Nha o,Phi internet,616000,Chuyen khoan,Chi phi sinh hoat can thiet
+2026-08-18,An uong,An trua van phong,157000,The,Du tru bua an trong tuan
+2026-09-21,Di chuyen,Do xang xe,169000,Chuyen khoan,Bao tri phuong tien
+2026-10-24,Hoc tap,Le phi thi,470000,The,Dau tu cho ky nang
+2026-11-27,Giai tri,Ve su kien,315000,Vi dien tu,Chi phi giai tri theo thang
+2026-12-02,Suc khoe,Mua vitamin,412000,Chuyen khoan,Phat sinh khong deu
+2026-01-05,Mua sam,Mua do dung ca nhan,140000,The,Bo sung vat dung can thiet
+2026-02-08,Nha o,Tien dien nuoc,493000,The,Thanh toan dinh ky
+2026-03-11,An uong,Dat do an online,129000,Vi dien tu,Phuc vu lich hoc va lam
+2026-04-14,Di chuyen,Bao duong xe may,131000,Tien mat,Di hoc va di lam
+2026-05-17,Hoc tap,Mua sach,312000,Chuyen khoan,Phuc vu bai tap va bao cao
+2026-06-20,Giai tri,Ca phe voi ban be,232000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-07-23,Suc khoe,Kham rang,299000,Tien mat,Cham soc suc khoe dinh ky
+2026-08-26,Mua sam,Mua do gia dung nho,367000,Vi dien tu,Can can nhac truoc khi mua
+2026-09-01,Nha o,Tien tro hang thang,706000,Chuyen khoan,Phat sinh trong thang
+2026-10-04,An uong,Mua thuc pham,209000,Tien mat,Chi phi hang ngay
+2026-11-07,Di chuyen,Di xe cong nghe,225000,Vi dien tu,Phat sinh di lai trong thang
+2026-12-10,Hoc tap,Hoc phi khoa ngan han,574000,The,Nang cao kien thuc
+2026-01-13,Giai tri,Du lich ngan ngay,149000,The,Thu gian cuoi tuan
+2026-02-16,Suc khoe,Kham tong quat,186000,The,Du phong cho suc khoe
+2026-03-19,Mua sam,Mua phu kien hoc tap,234000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-04-22,Nha o,Bao tri phong tro,583000,The,Chi phi sinh hoat can thiet
+2026-05-25,An uong,An toi cuoi tuan,181000,The,Du tru bua an trong tuan
+2026-06-28,Di chuyen,Gui xe,187000,Chuyen khoan,Bao tri phuong tien
+2026-07-03,Hoc tap,Mua khoa hoc online,416000,Chuyen khoan,Dau tu cho ky nang
+2026-08-06,Giai tri,Xem phim,306000,Vi dien tu,Chi phi giai tri theo thang
+2026-09-09,Suc khoe,Mua thuoc,385000,Chuyen khoan,Phat sinh khong deu
+2026-10-12,Mua sam,Mua quan ao,461000,The,Bo sung vat dung can thiet
+2026-11-15,Nha o,Phi internet,796000,Chuyen khoan,Thanh toan dinh ky
+2026-12-18,An uong,Ca phe buoi sang,261000,Vi dien tu,Phuc vu lich hoc va lam
+2026-01-21,Di chuyen,Do xang xe,149000,Tien mat,Di hoc va di lam
+2026-02-24,Hoc tap,In tai lieu,258000,The,Phuc vu bai tap va bao cao
+2026-03-27,Giai tri,Dang ky nen tang giai tri,223000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-04-02,Suc khoe,Mua vitamin,272000,Tien mat,Cham soc suc khoe dinh ky
+2026-05-05,Mua sam,Mua do dung ca nhan,328000,Vi dien tu,Can can nhac truoc khi mua
+2026-06-08,Nha o,Tien dien nuoc,588000,The,Phat sinh trong thang
+2026-07-11,An uong,An trua van phong,148000,Tien mat,Chi phi hang ngay
+2026-08-14,Di chuyen,Bao duong xe may,158000,Vi dien tu,Phat sinh di lai trong thang
+2026-09-17,Hoc tap,Le phi thi,435000,Chuyen khoan,Nang cao kien thuc
+2026-10-20,Giai tri,Ve su kien,295000,The,Thu gian cuoi tuan
+2026-11-23,Suc khoe,Kham rang,386000,The,Du phong cho suc khoe
+2026-12-26,Mua sam,Mua do gia dung nho,470000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-01-01,Nha o,Tien tro hang thang,465000,Chuyen khoan,Chi phi sinh hoat can thiet
+2026-02-04,An uong,Dat do an online,120000,The,Du tru bua an trong tuan
+2026-03-07,Di chuyen,Di xe cong nghe,120000,Chuyen khoan,Bao tri phuong tien
+2026-04-10,Hoc tap,Mua sach,277000,The,Dau tu cho ky nang
+2026-05-13,Giai tri,Ca phe voi ban be,212000,Vi dien tu,Chi phi giai tri theo thang
+2026-06-16,Suc khoe,Kham tong quat,273000,Chuyen khoan,Phat sinh khong deu
+2026-07-19,Mua sam,Mua phu kien hoc tap,337000,The,Bo sung vat dung can thiet
+2026-08-22,Nha o,Bao tri phong tro,678000,The,Thanh toan dinh ky
+2026-09-25,An uong,Mua thuc pham,200000,Vi dien tu,Phuc vu lich hoc va lam
+2026-10-28,Di chuyen,Gui xe,214000,Tien mat,Di hoc va di lam
+2026-11-03,Hoc tap,Hoc phi khoa ngan han,539000,Chuyen khoan,Phuc vu bai tap va bao cao
+2026-12-06,Giai tri,Du lich ngan ngay,369000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-01-09,Suc khoe,Mua thuoc,160000,Tien mat,Cham soc suc khoe dinh ky
+2026-02-12,Mua sam,Mua quan ao,204000,Vi dien tu,Can can nhac truoc khi mua
+2026-03-15,Nha o,Phi internet,555000,Chuyen khoan,Phat sinh trong thang
+2026-04-18,An uong,An toi cuoi tuan,172000,Tien mat,Chi phi hang ngay
+2026-05-21,Di chuyen,Do xang xe,176000,Vi dien tu,Phat sinh di lai trong thang
+2026-06-24,Hoc tap,Mua khoa hoc online,381000,The,Nang cao kien thuc
+2026-07-27,Giai tri,Xem phim,286000,The,Thu gian cuoi tuan
+2026-08-02,Suc khoe,Mua vitamin,359000,The,Du phong cho suc khoe
+2026-09-05,Mua sam,Mua do dung ca nhan,431000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-10-08,Nha o,Tien dien nuoc,768000,The,Chi phi sinh hoat can thiet
+2026-11-11,An uong,Ca phe buoi sang,252000,The,Du tru bua an trong tuan
+2026-12-14,Di chuyen,Bao duong xe may,270000,Chuyen khoan,Bao tri phuong tien
+2026-01-17,Hoc tap,In tai lieu,223000,Chuyen khoan,Dau tu cho ky nang
+2026-02-20,Giai tri,Dang ky nen tang giai tri,203000,Vi dien tu,Chi phi giai tri theo thang
+2026-03-23,Suc khoe,Kham rang,246000,Chuyen khoan,Phat sinh khong deu
+2026-04-26,Mua sam,Mua do gia dung nho,298000,The,Bo sung vat dung can thiet
+2026-05-01,Nha o,Tien tro hang thang,560000,Chuyen khoan,Thanh toan dinh ky
+2026-06-04,An uong,An trua van phong,139000,Vi dien tu,Phuc vu lich hoc va lam
+2026-07-07,Di chuyen,Di xe cong nghe,147000,Tien mat,Di hoc va di lam
+2026-08-10,Hoc tap,Le phi thi,400000,The,Phuc vu bai tap va bao cao
+2026-09-13,Giai tri,Ve su kien,275000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-10-16,Suc khoe,Kham tong quat,360000,Tien mat,Cham soc suc khoe dinh ky
+2026-11-19,Mua sam,Mua phu kien hoc tap,440000,Vi dien tu,Can can nhac truoc khi mua
+2026-12-22,Nha o,Bao tri phong tro,773000,The,Phat sinh trong thang
+2026-01-25,An uong,Dat do an online,111000,Tien mat,Chi phi hang ngay
+2026-02-28,Di chuyen,Gui xe,109000,Vi dien tu,Phat sinh di lai trong thang
+2026-03-03,Hoc tap,Mua sach,242000,Chuyen khoan,Nang cao kien thuc
+2026-04-06,Giai tri,Ca phe voi ban be,192000,The,Thu gian cuoi tuan
+2026-05-09,Suc khoe,Mua thuoc,247000,The,Du phong cho suc khoe
+2026-06-12,Mua sam,Mua quan ao,307000,Tien mat,Phuc vu sinh hoat ca nhan
+2026-07-15,Nha o,Phi internet,650000,Chuyen khoan,Chi phi sinh hoat can thiet
+2026-08-18,An uong,Mua thuc pham,191000,The,Du tru bua an trong tuan
+2026-09-21,Di chuyen,Do xang xe,203000,Chuyen khoan,Bao tri phuong tien
+2026-10-24,Hoc tap,Hoc phi khoa ngan han,504000,The,Dau tu cho ky nang
+2026-11-27,Giai tri,Du lich ngan ngay,349000,Vi dien tu,Chi phi giai tri theo thang
+2026-12-02,Suc khoe,Mua vitamin,446000,Chuyen khoan,Phat sinh khong deu
+2026-01-05,Mua sam,Mua do dung ca nhan,174000,The,Bo sung vat dung can thiet
+2026-02-08,Nha o,Tien dien nuoc,527000,The,Thanh toan dinh ky
+2026-03-11,An uong,An toi cuoi tuan,163000,Vi dien tu,Phuc vu lich hoc va lam
+2026-04-14,Di chuyen,Bao duong xe may,165000,Tien mat,Di hoc va di lam
+2026-05-17,Hoc tap,Mua khoa hoc online,346000,Chuyen khoan,Phuc vu bai tap va bao cao
+2026-06-20,Giai tri,Xem phim,266000,Tien mat,Can theo doi de tranh vuot ngan sach
+2026-07-23,Suc khoe,Kham rang,333000,Tien mat,Cham soc suc khoe dinh ky
+2026-08-26,Mua sam,Mua do gia dung nho,401000,Vi dien tu,Can can nhac truoc khi mua
+2026-09-01,Nha o,Tien tro hang thang,740000,Chuyen khoan,Phat sinh trong thang
+2026-10-04,An uong,Ca phe buoi sang,243000,Tien mat,Chi phi hang ngay
+2027-11-07,Di chuyen,Di xe cong nghe,259000,Vi dien tu,Phat sinh di lai trong thang
+2027-12-10,Hoc tap,In tai lieu,608000,The,Nang cao kien thuc
+2027-01-13,Giai tri,Dang ky nen tang giai tri,183000,The,Thu gian cuoi tuan
+2027-02-16,Suc khoe,Kham tong quat,220000,The,Du phong cho suc khoe
+2027-03-19,Mua sam,Mua phu kien hoc tap,268000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-04-22,Nha o,Bao tri phong tro,532000,The,Chi phi sinh hoat can thiet
+2027-05-25,An uong,An trua van phong,130000,The,Du tru bua an trong tuan
+2027-06-28,Di chuyen,Gui xe,136000,Chuyen khoan,Bao tri phuong tien
+2027-07-03,Hoc tap,Le phi thi,365000,Chuyen khoan,Dau tu cho ky nang
+2027-08-06,Giai tri,Ve su kien,255000,Vi dien tu,Chi phi giai tri theo thang
+2027-09-09,Suc khoe,Mua thuoc,334000,Chuyen khoan,Phat sinh khong deu
+2027-10-12,Mua sam,Mua quan ao,410000,The,Bo sung vat dung can thiet
+2027-11-15,Nha o,Phi internet,745000,Chuyen khoan,Thanh toan dinh ky
+2027-12-18,An uong,Dat do an online,210000,Vi dien tu,Phuc vu lich hoc va lam
+2027-01-21,Di chuyen,Do xang xe,98000,Tien mat,Di hoc va di lam
+2027-02-24,Hoc tap,Mua sach,207000,The,Phuc vu bai tap va bao cao
+2027-03-27,Giai tri,Ca phe voi ban be,172000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-04-02,Suc khoe,Mua vitamin,221000,Tien mat,Cham soc suc khoe dinh ky
+2027-05-05,Mua sam,Mua do dung ca nhan,277000,Vi dien tu,Can can nhac truoc khi mua
+2027-06-08,Nha o,Tien dien nuoc,622000,The,Phat sinh trong thang
+2027-07-11,An uong,Mua thuc pham,182000,Tien mat,Chi phi hang ngay
+2027-08-14,Di chuyen,Bao duong xe may,192000,Vi dien tu,Phat sinh di lai trong thang
+2027-09-17,Hoc tap,Hoc phi khoa ngan han,469000,Chuyen khoan,Nang cao kien thuc
+2027-10-20,Giai tri,Du lich ngan ngay,329000,The,Thu gian cuoi tuan
+2027-11-23,Suc khoe,Kham rang,420000,The,Du phong cho suc khoe
+2027-12-26,Mua sam,Mua do gia dung nho,504000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-01-01,Nha o,Tien tro hang thang,499000,Chuyen khoan,Chi phi sinh hoat can thiet
+2027-02-04,An uong,An toi cuoi tuan,154000,The,Du tru bua an trong tuan
+2027-03-07,Di chuyen,Di xe cong nghe,154000,Chuyen khoan,Bao tri phuong tien
+2027-04-10,Hoc tap,Mua khoa hoc online,311000,The,Dau tu cho ky nang
+2027-05-13,Giai tri,Xem phim,246000,Vi dien tu,Chi phi giai tri theo thang
+2027-06-16,Suc khoe,Kham tong quat,307000,Chuyen khoan,Phat sinh khong deu
+2027-07-19,Mua sam,Mua phu kien hoc tap,371000,The,Bo sung vat dung can thiet
+2027-08-22,Nha o,Bao tri phong tro,712000,The,Thanh toan dinh ky
+2027-09-25,An uong,Ca phe buoi sang,234000,Vi dien tu,Phuc vu lich hoc va lam
+2027-10-28,Di chuyen,Gui xe,248000,Tien mat,Di hoc va di lam
+2027-11-03,Hoc tap,In tai lieu,573000,Chuyen khoan,Phuc vu bai tap va bao cao
+2027-12-06,Giai tri,Dang ky nen tang giai tri,403000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-01-09,Suc khoe,Mua thuoc,194000,Tien mat,Cham soc suc khoe dinh ky
+2027-02-12,Mua sam,Mua quan ao,238000,Vi dien tu,Can can nhac truoc khi mua
+2027-03-15,Nha o,Phi internet,504000,Chuyen khoan,Phat sinh trong thang
+2027-04-18,An uong,An trua van phong,121000,Tien mat,Chi phi hang ngay
+2027-05-21,Di chuyen,Do xang xe,125000,Vi dien tu,Phat sinh di lai trong thang
+2027-06-24,Hoc tap,Le phi thi,330000,The,Nang cao kien thuc
+2027-07-27,Giai tri,Ve su kien,235000,The,Thu gian cuoi tuan
+2027-08-02,Suc khoe,Mua vitamin,308000,The,Du phong cho suc khoe
+2027-09-05,Mua sam,Mua do dung ca nhan,380000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-10-08,Nha o,Tien dien nuoc,717000,The,Chi phi sinh hoat can thiet
+2027-11-11,An uong,Dat do an online,201000,The,Du tru bua an trong tuan
+2027-12-14,Di chuyen,Bao duong xe may,219000,Chuyen khoan,Bao tri phuong tien
+2027-01-17,Hoc tap,Mua sach,172000,Chuyen khoan,Dau tu cho ky nang
+2027-02-20,Giai tri,Ca phe voi ban be,152000,Vi dien tu,Chi phi giai tri theo thang
+2027-03-23,Suc khoe,Kham rang,195000,Chuyen khoan,Phat sinh khong deu
+2027-04-26,Mua sam,Mua do gia dung nho,247000,The,Bo sung vat dung can thiet
+2027-05-01,Nha o,Tien tro hang thang,594000,Chuyen khoan,Thanh toan dinh ky
+2027-06-04,An uong,Mua thuc pham,173000,Vi dien tu,Phuc vu lich hoc va lam
+2027-07-07,Di chuyen,Di xe cong nghe,181000,Tien mat,Di hoc va di lam
+2027-08-10,Hoc tap,Hoc phi khoa ngan han,434000,The,Phuc vu bai tap va bao cao
+2027-09-13,Giai tri,Du lich ngan ngay,309000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-10-16,Suc khoe,Kham tong quat,394000,Tien mat,Cham soc suc khoe dinh ky
+2027-11-19,Mua sam,Mua phu kien hoc tap,474000,Vi dien tu,Can can nhac truoc khi mua
+2027-12-22,Nha o,Bao tri phong tro,807000,The,Phat sinh trong thang
+2027-01-25,An uong,An toi cuoi tuan,145000,Tien mat,Chi phi hang ngay
+2027-02-28,Di chuyen,Gui xe,143000,Vi dien tu,Phat sinh di lai trong thang
+2027-03-03,Hoc tap,Mua khoa hoc online,276000,Chuyen khoan,Nang cao kien thuc
+2027-04-06,Giai tri,Xem phim,226000,The,Thu gian cuoi tuan
+2027-05-09,Suc khoe,Mua thuoc,281000,The,Du phong cho suc khoe
+2027-06-12,Mua sam,Mua quan ao,341000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-07-15,Nha o,Phi internet,684000,Chuyen khoan,Chi phi sinh hoat can thiet
+2027-08-18,An uong,Ca phe buoi sang,225000,The,Du tru bua an trong tuan
+2027-09-21,Di chuyen,Do xang xe,237000,Chuyen khoan,Bao tri phuong tien
+2027-10-24,Hoc tap,In tai lieu,538000,The,Dau tu cho ky nang
+2027-11-27,Giai tri,Dang ky nen tang giai tri,383000,Vi dien tu,Chi phi giai tri theo thang
+2027-12-02,Suc khoe,Mua vitamin,480000,Chuyen khoan,Phat sinh khong deu
+2027-01-05,Mua sam,Mua do dung ca nhan,208000,The,Bo sung vat dung can thiet
+2027-02-08,Nha o,Tien dien nuoc,476000,The,Thanh toan dinh ky
+2027-03-11,An uong,An trua van phong,112000,Vi dien tu,Phuc vu lich hoc va lam
+2027-04-14,Di chuyen,Bao duong xe may,114000,Tien mat,Di hoc va di lam
+2027-05-17,Hoc tap,Le phi thi,295000,Chuyen khoan,Phuc vu bai tap va bao cao
+2027-06-20,Giai tri,Ve su kien,215000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-07-23,Suc khoe,Kham rang,282000,Tien mat,Cham soc suc khoe dinh ky
+2027-08-26,Mua sam,Mua do gia dung nho,350000,Vi dien tu,Can can nhac truoc khi mua
+2027-09-01,Nha o,Tien tro hang thang,689000,Chuyen khoan,Phat sinh trong thang
+2027-10-04,An uong,Dat do an online,192000,Tien mat,Chi phi hang ngay
+2027-11-07,Di chuyen,Di xe cong nghe,208000,Vi dien tu,Phat sinh di lai trong thang
+2027-12-10,Hoc tap,Mua sach,557000,The,Nang cao kien thuc
+2027-01-13,Giai tri,Ca phe voi ban be,132000,The,Thu gian cuoi tuan
+2027-02-16,Suc khoe,Kham tong quat,169000,The,Du phong cho suc khoe
+2027-03-19,Mua sam,Mua phu kien hoc tap,217000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-04-22,Nha o,Bao tri phong tro,566000,The,Chi phi sinh hoat can thiet
+2027-05-25,An uong,Mua thuc pham,164000,The,Du tru bua an trong tuan
+2027-06-28,Di chuyen,Gui xe,170000,Chuyen khoan,Bao tri phuong tien
+2027-07-03,Hoc tap,Hoc phi khoa ngan han,399000,Chuyen khoan,Dau tu cho ky nang
+2027-08-06,Giai tri,Du lich ngan ngay,289000,Vi dien tu,Chi phi giai tri theo thang
+2027-09-09,Suc khoe,Mua thuoc,368000,Chuyen khoan,Phat sinh khong deu
+2027-10-12,Mua sam,Mua quan ao,444000,The,Bo sung vat dung can thiet
+2027-11-15,Nha o,Phi internet,779000,Chuyen khoan,Thanh toan dinh ky
+2027-12-18,An uong,An toi cuoi tuan,244000,Vi dien tu,Phuc vu lich hoc va lam
+2027-01-21,Di chuyen,Do xang xe,132000,Tien mat,Di hoc va di lam
+2027-02-24,Hoc tap,Mua khoa hoc online,241000,The,Phuc vu bai tap va bao cao
+2027-03-27,Giai tri,Xem phim,206000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-04-02,Suc khoe,Mua vitamin,255000,Tien mat,Cham soc suc khoe dinh ky
+2027-05-05,Mua sam,Mua do dung ca nhan,311000,Vi dien tu,Can can nhac truoc khi mua
+2027-06-08,Nha o,Tien dien nuoc,656000,The,Phat sinh trong thang
+2027-07-11,An uong,Ca phe buoi sang,216000,Tien mat,Chi phi hang ngay
+2027-08-14,Di chuyen,Bao duong xe may,226000,Vi dien tu,Phat sinh di lai trong thang
+2027-09-17,Hoc tap,In tai lieu,503000,Chuyen khoan,Nang cao kien thuc
+2027-10-20,Giai tri,Dang ky nen tang giai tri,363000,The,Thu gian cuoi tuan
+2027-11-23,Suc khoe,Kham rang,454000,The,Du phong cho suc khoe
+2027-12-26,Mua sam,Mua do gia dung nho,538000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-01-01,Nha o,Tien tro hang thang,448000,Chuyen khoan,Chi phi sinh hoat can thiet
+2027-02-04,An uong,An trua van phong,103000,The,Du tru bua an trong tuan
+2027-03-07,Di chuyen,Di xe cong nghe,103000,Chuyen khoan,Bao tri phuong tien
+2027-04-10,Hoc tap,Le phi thi,260000,The,Dau tu cho ky nang
+2027-05-13,Giai tri,Ve su kien,195000,Vi dien tu,Chi phi giai tri theo thang
+2027-06-16,Suc khoe,Kham tong quat,256000,Chuyen khoan,Phat sinh khong deu
+2027-07-19,Mua sam,Mua phu kien hoc tap,320000,The,Bo sung vat dung can thiet
+2027-08-22,Nha o,Bao tri phong tro,661000,The,Thanh toan dinh ky
+2027-09-25,An uong,Dat do an online,183000,Vi dien tu,Phuc vu lich hoc va lam
+2027-10-28,Di chuyen,Gui xe,197000,Tien mat,Di hoc va di lam
+2027-11-03,Hoc tap,Mua sach,522000,Chuyen khoan,Phuc vu bai tap va bao cao
+2027-12-06,Giai tri,Ca phe voi ban be,352000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-01-09,Suc khoe,Mua thuoc,143000,Tien mat,Cham soc suc khoe dinh ky
+2027-02-12,Mua sam,Mua quan ao,187000,Vi dien tu,Can can nhac truoc khi mua
+2027-03-15,Nha o,Phi internet,538000,Chuyen khoan,Phat sinh trong thang
+2027-04-18,An uong,Mua thuc pham,155000,Tien mat,Chi phi hang ngay
+2027-05-21,Di chuyen,Do xang xe,159000,Vi dien tu,Phat sinh di lai trong thang
+2027-06-24,Hoc tap,Hoc phi khoa ngan han,364000,The,Nang cao kien thuc
+2027-07-27,Giai tri,Du lich ngan ngay,269000,The,Thu gian cuoi tuan
+2027-08-02,Suc khoe,Mua vitamin,342000,The,Du phong cho suc khoe
+2027-09-05,Mua sam,Mua do dung ca nhan,414000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-10-08,Nha o,Tien dien nuoc,751000,The,Chi phi sinh hoat can thiet
+2027-11-11,An uong,An toi cuoi tuan,235000,The,Du tru bua an trong tuan
+2027-12-14,Di chuyen,Bao duong xe may,253000,Chuyen khoan,Bao tri phuong tien
+2027-01-17,Hoc tap,Mua khoa hoc online,206000,Chuyen khoan,Dau tu cho ky nang
+2027-02-20,Giai tri,Xem phim,186000,Vi dien tu,Chi phi giai tri theo thang
+2027-03-23,Suc khoe,Kham rang,229000,Chuyen khoan,Phat sinh khong deu
+2027-04-26,Mua sam,Mua do gia dung nho,281000,The,Bo sung vat dung can thiet
+2027-05-01,Nha o,Tien tro hang thang,628000,Chuyen khoan,Thanh toan dinh ky
+2027-06-04,An uong,Ca phe buoi sang,207000,Vi dien tu,Phuc vu lich hoc va lam
+2027-07-07,Di chuyen,Di xe cong nghe,215000,Tien mat,Di hoc va di lam
+2027-08-10,Hoc tap,In tai lieu,468000,The,Phuc vu bai tap va bao cao
+2027-09-13,Giai tri,Dang ky nen tang giai tri,343000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-10-16,Suc khoe,Kham tong quat,428000,Tien mat,Cham soc suc khoe dinh ky
+2027-11-19,Mua sam,Mua phu kien hoc tap,508000,Vi dien tu,Can can nhac truoc khi mua
+2027-12-22,Nha o,Bao tri phong tro,756000,The,Phat sinh trong thang
+2027-01-25,An uong,An trua van phong,94000,Tien mat,Chi phi hang ngay
+2027-02-28,Di chuyen,Gui xe,92000,Vi dien tu,Phat sinh di lai trong thang
+2027-03-03,Hoc tap,Le phi thi,225000,Chuyen khoan,Nang cao kien thuc
+2027-04-06,Giai tri,Ve su kien,175000,The,Thu gian cuoi tuan
+2027-05-09,Suc khoe,Mua thuoc,230000,The,Du phong cho suc khoe
+2027-06-12,Mua sam,Mua quan ao,290000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-07-15,Nha o,Phi internet,633000,Chuyen khoan,Chi phi sinh hoat can thiet
+2027-08-18,An uong,Dat do an online,174000,The,Du tru bua an trong tuan
+2027-09-21,Di chuyen,Do xang xe,186000,Chuyen khoan,Bao tri phuong tien
+2027-10-24,Hoc tap,Mua sach,487000,The,Dau tu cho ky nang
+2027-11-27,Giai tri,Ca phe voi ban be,332000,Vi dien tu,Chi phi giai tri theo thang
+2027-12-02,Suc khoe,Mua vitamin,429000,Chuyen khoan,Phat sinh khong deu
+2027-01-05,Mua sam,Mua do dung ca nhan,157000,The,Bo sung vat dung can thiet
+2027-02-08,Nha o,Tien dien nuoc,510000,The,Thanh toan dinh ky
+2027-03-11,An uong,Mua thuc pham,146000,Vi dien tu,Phuc vu lich hoc va lam
+2027-04-14,Di chuyen,Bao duong xe may,148000,Tien mat,Di hoc va di lam
+2027-05-17,Hoc tap,Hoc phi khoa ngan han,329000,Chuyen khoan,Phuc vu bai tap va bao cao
+2027-06-20,Giai tri,Du lich ngan ngay,249000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-07-23,Suc khoe,Kham rang,316000,Tien mat,Cham soc suc khoe dinh ky
+2027-08-26,Mua sam,Mua do gia dung nho,384000,Vi dien tu,Can can nhac truoc khi mua
+2027-09-01,Nha o,Tien tro hang thang,723000,Chuyen khoan,Phat sinh trong thang
+2027-10-04,An uong,An toi cuoi tuan,226000,Tien mat,Chi phi hang ngay
+2027-11-07,Di chuyen,Di xe cong nghe,242000,Vi dien tu,Phat sinh di lai trong thang
+2027-12-10,Hoc tap,Mua khoa hoc online,591000,The,Nang cao kien thuc
+2027-01-13,Giai tri,Xem phim,166000,The,Thu gian cuoi tuan
+2027-02-16,Suc khoe,Kham tong quat,203000,The,Du phong cho suc khoe
+2027-03-19,Mua sam,Mua phu kien hoc tap,251000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-04-22,Nha o,Bao tri phong tro,600000,The,Chi phi sinh hoat can thiet
+2027-05-25,An uong,Ca phe buoi sang,198000,The,Du tru bua an trong tuan
+2027-06-28,Di chuyen,Gui xe,204000,Chuyen khoan,Bao tri phuong tien
+2027-07-03,Hoc tap,In tai lieu,433000,Chuyen khoan,Dau tu cho ky nang
+2027-08-06,Giai tri,Dang ky nen tang giai tri,323000,Vi dien tu,Chi phi giai tri theo thang
+2027-09-09,Suc khoe,Mua thuoc,402000,Chuyen khoan,Phat sinh khong deu
+2027-10-12,Mua sam,Mua quan ao,478000,The,Bo sung vat dung can thiet
+2027-11-15,Nha o,Phi internet,728000,Chuyen khoan,Thanh toan dinh ky
+2027-12-18,An uong,An trua van phong,193000,Vi dien tu,Phuc vu lich hoc va lam
+2027-01-21,Di chuyen,Do xang xe,81000,Tien mat,Di hoc va di lam
+2027-02-24,Hoc tap,Le phi thi,190000,The,Phuc vu bai tap va bao cao
+2027-03-27,Giai tri,Ve su kien,155000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-04-02,Suc khoe,Mua vitamin,204000,Tien mat,Cham soc suc khoe dinh ky
+2027-05-05,Mua sam,Mua do dung ca nhan,260000,Vi dien tu,Can can nhac truoc khi mua
+2027-06-08,Nha o,Tien dien nuoc,605000,The,Phat sinh trong thang
+2027-07-11,An uong,Dat do an online,165000,Tien mat,Chi phi hang ngay
+2027-08-14,Di chuyen,Bao duong xe may,175000,Vi dien tu,Phat sinh di lai trong thang
+2027-09-17,Hoc tap,Mua sach,452000,Chuyen khoan,Nang cao kien thuc
+2027-10-20,Giai tri,Ca phe voi ban be,312000,The,Thu gian cuoi tuan
+2027-11-23,Suc khoe,Kham rang,403000,The,Du phong cho suc khoe
+2027-12-26,Mua sam,Mua do gia dung nho,487000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-01-01,Nha o,Tien tro hang thang,482000,Chuyen khoan,Chi phi sinh hoat can thiet
+2027-02-04,An uong,Mua thuc pham,137000,The,Du tru bua an trong tuan
+2027-03-07,Di chuyen,Di xe cong nghe,137000,Chuyen khoan,Bao tri phuong tien
+2027-04-10,Hoc tap,Hoc phi khoa ngan han,294000,The,Dau tu cho ky nang
+2027-05-13,Giai tri,Du lich ngan ngay,229000,Vi dien tu,Chi phi giai tri theo thang
+2027-06-16,Suc khoe,Kham tong quat,290000,Chuyen khoan,Phat sinh khong deu
+2027-07-19,Mua sam,Mua phu kien hoc tap,354000,The,Bo sung vat dung can thiet
+2027-08-22,Nha o,Bao tri phong tro,695000,The,Thanh toan dinh ky
+2027-09-25,An uong,An toi cuoi tuan,217000,Vi dien tu,Phuc vu lich hoc va lam
+2027-10-28,Di chuyen,Gui xe,231000,Tien mat,Di hoc va di lam
+2027-11-03,Hoc tap,Mua khoa hoc online,556000,Chuyen khoan,Phuc vu bai tap va bao cao
+2027-12-06,Giai tri,Xem phim,386000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-01-09,Suc khoe,Mua thuoc,177000,Tien mat,Cham soc suc khoe dinh ky
+2027-02-12,Mua sam,Mua quan ao,221000,Vi dien tu,Can can nhac truoc khi mua
+2027-03-15,Nha o,Phi internet,572000,Chuyen khoan,Phat sinh trong thang
+2027-04-18,An uong,Ca phe buoi sang,189000,Tien mat,Chi phi hang ngay
+2027-05-21,Di chuyen,Do xang xe,193000,Vi dien tu,Phat sinh di lai trong thang
+2027-06-24,Hoc tap,In tai lieu,398000,The,Nang cao kien thuc
+2027-07-27,Giai tri,Dang ky nen tang giai tri,303000,The,Thu gian cuoi tuan
+2027-08-02,Suc khoe,Mua vitamin,376000,The,Du phong cho suc khoe
+2027-09-05,Mua sam,Mua do dung ca nhan,448000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-10-08,Nha o,Tien dien nuoc,700000,The,Chi phi sinh hoat can thiet
+2027-11-11,An uong,An trua van phong,184000,The,Du tru bua an trong tuan
+2027-12-14,Di chuyen,Bao duong xe may,202000,Chuyen khoan,Bao tri phuong tien
+2027-01-17,Hoc tap,Le phi thi,155000,Chuyen khoan,Dau tu cho ky nang
+2027-02-20,Giai tri,Ve su kien,135000,Vi dien tu,Chi phi giai tri theo thang
+2027-03-23,Suc khoe,Kham rang,178000,Chuyen khoan,Phat sinh khong deu
+2027-04-26,Mua sam,Mua do gia dung nho,230000,The,Bo sung vat dung can thiet
+2027-05-01,Nha o,Tien tro hang thang,577000,Chuyen khoan,Thanh toan dinh ky
+2027-06-04,An uong,Dat do an online,156000,Vi dien tu,Phuc vu lich hoc va lam
+2027-07-07,Di chuyen,Di xe cong nghe,164000,Tien mat,Di hoc va di lam
+2027-08-10,Hoc tap,Mua sach,417000,The,Phuc vu bai tap va bao cao
+2027-09-13,Giai tri,Ca phe voi ban be,292000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-10-16,Suc khoe,Kham tong quat,377000,Tien mat,Cham soc suc khoe dinh ky
+2027-11-19,Mua sam,Mua phu kien hoc tap,457000,Vi dien tu,Can can nhac truoc khi mua
+2027-12-22,Nha o,Bao tri phong tro,790000,The,Phat sinh trong thang
+2027-01-25,An uong,Mua thuc pham,128000,Tien mat,Chi phi hang ngay
+2027-02-28,Di chuyen,Gui xe,126000,Vi dien tu,Phat sinh di lai trong thang
+2027-03-03,Hoc tap,Hoc phi khoa ngan han,259000,Chuyen khoan,Nang cao kien thuc
+2027-04-06,Giai tri,Du lich ngan ngay,209000,The,Thu gian cuoi tuan
+2027-05-09,Suc khoe,Mua thuoc,264000,The,Du phong cho suc khoe
+2027-06-12,Mua sam,Mua quan ao,324000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-07-15,Nha o,Phi internet,667000,Chuyen khoan,Chi phi sinh hoat can thiet
+2027-08-18,An uong,An toi cuoi tuan,208000,The,Du tru bua an trong tuan
+2027-09-21,Di chuyen,Do xang xe,220000,Chuyen khoan,Bao tri phuong tien
+2027-10-24,Hoc tap,Mua khoa hoc online,521000,The,Dau tu cho ky nang
+2027-11-27,Giai tri,Xem phim,366000,Vi dien tu,Chi phi giai tri theo thang
+2027-12-02,Suc khoe,Mua vitamin,463000,Chuyen khoan,Phat sinh khong deu
+2027-01-05,Mua sam,Mua do dung ca nhan,191000,The,Bo sung vat dung can thiet
+2027-02-08,Nha o,Tien dien nuoc,544000,The,Thanh toan dinh ky
+2027-03-11,An uong,Ca phe buoi sang,180000,Vi dien tu,Phuc vu lich hoc va lam
+2027-04-14,Di chuyen,Bao duong xe may,182000,Tien mat,Di hoc va di lam
+2027-05-17,Hoc tap,In tai lieu,363000,Chuyen khoan,Phuc vu bai tap va bao cao
+2027-06-20,Giai tri,Dang ky nen tang giai tri,283000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-07-23,Suc khoe,Kham rang,350000,Tien mat,Cham soc suc khoe dinh ky
+2027-08-26,Mua sam,Mua do gia dung nho,418000,Vi dien tu,Can can nhac truoc khi mua
+2027-09-01,Nha o,Tien tro hang thang,672000,Chuyen khoan,Phat sinh trong thang
+2027-10-04,An uong,An trua van phong,175000,Tien mat,Chi phi hang ngay
+2027-11-07,Di chuyen,Di xe cong nghe,191000,Vi dien tu,Phat sinh di lai trong thang
+2027-12-10,Hoc tap,Le phi thi,540000,The,Nang cao kien thuc
+2027-01-13,Giai tri,Ve su kien,115000,The,Thu gian cuoi tuan
+2027-02-16,Suc khoe,Kham tong quat,152000,The,Du phong cho suc khoe
+2027-03-19,Mua sam,Mua phu kien hoc tap,200000,Tien mat,Phuc vu sinh hoat ca nhan
+2027-04-22,Nha o,Bao tri phong tro,549000,The,Chi phi sinh hoat can thiet
+2027-05-25,An uong,Dat do an online,147000,The,Du tru bua an trong tuan
+2027-06-28,Di chuyen,Gui xe,153000,Chuyen khoan,Bao tri phuong tien
+2027-07-03,Hoc tap,Mua sach,382000,Chuyen khoan,Dau tu cho ky nang
+2027-08-06,Giai tri,Ca phe voi ban be,272000,Vi dien tu,Chi phi giai tri theo thang
+2027-09-09,Suc khoe,Mua thuoc,351000,Chuyen khoan,Phat sinh khong deu
+2027-10-12,Mua sam,Mua quan ao,427000,The,Bo sung vat dung can thiet
+2027-11-15,Nha o,Phi internet,762000,Chuyen khoan,Thanh toan dinh ky
+2027-12-18,An uong,Mua thuc pham,227000,Vi dien tu,Phuc vu lich hoc va lam
+2027-01-21,Di chuyen,Do xang xe,115000,Tien mat,Di hoc va di lam
+2027-02-24,Hoc tap,Hoc phi khoa ngan han,224000,The,Phuc vu bai tap va bao cao
+2027-03-27,Giai tri,Du lich ngan ngay,189000,Tien mat,Can theo doi de tranh vuot ngan sach
+2027-04-02,Suc khoe,Mua vitamin,238000,Tien mat,Cham soc suc khoe dinh ky

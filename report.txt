@@ -1,0 +1,152 @@
+BAI TAP LON: PHAN TICH DU LIEU CHI TIEU CA NHAN
+=======================================================
+1. Quy trinh phan tich du lieu
+- Xac dinh muc tieu: tim nhom chi tieu lon, xu huong chi tieu va kha nang tang chi phi trong tuong lai.
+- Thu thap du lieu tu tep Excel/CSV va dua vao DataFrame de xu ly.
+- Lam sach du lieu, chuan hoa kieu du lieu va loai bo ban ghi khong hop le.
+- Tong hop, truc quan hoa va dua ra du bao chi tieu cho cac thang tiep theo.
+
+2. Mo ta de tai
+De tai su dung pandas va numpy de phan tich cac khoan chi tieu ca nhan,
+tu do nhan dien nhom chi phi lon, xu huong theo thoi gian va cac giao dich bat thuong.
+
+3. Doc va lam sach du lieu
+So dong ban dau: 806
+So dong trung lap da xoa: 0
+So dong loi du lieu da xoa: 0
+So dong khong phai chi tieu debit da loai: 118
+So dong chuyen khoan/tra the da loai: 71
+So dong gia tri am da xoa: 0
+So dong hop le sau lam sach: 617
+- Chuyen cot date sang kieu datetime va amount sang so de san sang phan tich.
+
+4. Tong quan du lieu
+So giao dich: 617
+Tong chi tieu: $63,042.42
+Chi tieu trung binh moi giao dich (NumPy mean): $102.18
+Trung vi chi tieu: $30.00
+Giao dich lon nhat (NumPy max): $9,200.00
+Giao dich nho nhat (NumPy min): $1.75
+
+5. Phan tich theo danh muc
+- Mortgage & Rent: $24,754.50 (39.27%). Khoan nha o co tinh co dinh va thuong chiem ty trong lon trong ngan sach.
+- Home Improvement: $19,092.87 (30.29%). Chi phi nha cua co the phat sinh theo du an, can tach khoan bat thuong.
+- Groceries: $2,795.21 (4.43%). Can theo doi dinh ky de toi uu ngan sach.
+- Utilities: $2,776.00 (4.40%). Khoan dich vu thiet yeu, nen theo doi xu huong tang bat thuong.
+- Restaurants: $2,613.02 (4.14%). Chi phi an uong ben ngoai can theo doi vi tan suat nho nhung cong don nhanh.
+- Shopping: $1,973.24 (3.13%). Nhom mua sam de phat sinh theo cam hung, nen dat gioi han theo thang.
+- Gas & Fuel: $1,715.17 (2.72%). Can theo doi dinh ky de toi uu ngan sach.
+- Mobile Phone: $1,680.40 (2.67%). Khoan dinh ky nen duoc kiem tra goi cuoc va muc su dung.
+- Internet: $1,570.88 (2.49%). Can theo doi dinh ky de toi uu ngan sach.
+- Auto Insurance: $1,350.00 (2.14%). Can theo doi dinh ky de toi uu ngan sach.
+- Electronics & Software: $719.00 (1.14%). Can theo doi dinh ky de toi uu ngan sach.
+- Alcohol & Bars: $539.13 (0.86%). Can theo doi dinh ky de toi uu ngan sach.
+- Haircut: $378.00 (0.60%). Can theo doi dinh ky de toi uu ngan sach.
+- Fast Food: $330.63 (0.52%). Can theo doi dinh ky de toi uu ngan sach.
+- Music: $224.49 (0.36%). Chi phi dang ky/giai tri nho, nen ra soat cac goi lap lai.
+- Movies & Dvds: $222.19 (0.35%). Chi phi giai tri linh hoat, can dat gioi han neu muon tiet kiem.
+- Coffee Shops: $115.54 (0.18%). Can theo doi dinh ky de toi uu ngan sach.
+- Television: $104.78 (0.17%). Can theo doi dinh ky de toi uu ngan sach.
+- Food & Dining: $77.75 (0.12%). Can theo doi dinh ky de toi uu ngan sach.
+- Entertainment: $9.62 (0.02%). Can theo doi dinh ky de toi uu ngan sach.
+
+6. Phan tich theo thang
+- 2018-01: $2,066.65
+- 2018-02: $2,089.44
+- 2018-03: $2,178.66
+- 2018-04: $2,862.66
+- 2018-05: $10,507.56
+- 2018-06: $2,115.05
+- 2018-07: $2,302.64
+- 2018-08: $1,992.68
+- 2018-09: $2,314.74
+- 2018-10: $2,242.37
+- 2018-11: $2,118.15
+- 2018-12: $2,652.94
+- 2019-01: $1,736.43
+- 2019-02: $1,954.60
+- 2019-03: $2,142.59
+- 2019-04: $1,966.87
+- 2019-05: $2,253.41
+- 2019-06: $10,912.38
+- 2019-07: $2,551.12
+- 2019-08: $2,043.20
+- 2019-09: $2,038.28
+
+7. Truc quan hoa du lieu
+- Bar chart (quan trong nhat) da duoc tao tai: C:\Users\VUONGCON\PycharmProjects\PythonProject5\charts\expense_bar_chart.png
+- Pie chart da duoc tao tai: C:\Users\VUONGCON\PycharmProjects\PythonProject5\charts\expense_pie_chart.png
+- Line chart da duoc tao tai: C:\Users\VUONGCON\PycharmProjects\PythonProject5\charts\expense_line_chart.png
+- Line chart da duoc bo sung duong du bao bang net dut cho 3 thang tiep theo.
+- Nhan xet cac khia canh truc quan hoa:
+  Bar chart phu hop nhat de so sanh gia tri tuyet doi giua cac danh muc. Trong bai nay, danh muc Mortgage & Rent cao nhat voi $24,754.50, trong khi Entertainment thap hon ro ret.
+  Pie chart giup nhin nhanh co cau ngan sach theo ty trong phan tram. Phan dien tich lon nhat thuoc ve Mortgage & Rent, cho thay day la nhom chi phi can uu tien kiem soat.
+  Line chart the hien bien dong chi tieu theo thoi gian va ho tro nhan dien xu huong. Du lieu cho thay muc cao nhat roi vao thang 2019-06 voi $10,912.38, trong khi muc thap nhat la 2019-01 voi $1,736.43.
+  Xet ve tinh de doc, bar chart va line chart hieu qua hon pie chart khi can so sanh nhieu moc du lieu hoac nhieu danh muc cung luc.
+  Han che cua truc quan hoa hien tai la chua co bieu do rieng cho giao dich bat thuong va chua tach phan so sanh theo quy, theo nam hoac theo phuong thuc thanh toan.
+
+8. Cac giao dich co gia tri cao nhat
+- 20/06/2019 | Home Improvement | Mike's Construction Co. | $9,200.00
+- 11/05/2018 | Home Improvement | Mike's Construction Co. | $8,000.00
+- 02/01/2018 | Mortgage & Rent | Mortgage Payment | $1,247.44
+- 02/02/2018 | Mortgage & Rent | Mortgage Payment | $1,247.44
+- 02/03/2018 | Mortgage & Rent | Mortgage Payment | $1,247.44
+
+9. Giao dich bat thuong
+- Nguong bat thuong (trung binh + do lech chuan): $631.58
+- 20/06/2019 | Home Improvement | Mike's Construction Co. | $9,200.00
+- 11/05/2018 | Home Improvement | Mike's Construction Co. | $8,000.00
+- 02/02/2018 | Mortgage & Rent | Mortgage Payment | $1,247.44
+- 02/03/2018 | Mortgage & Rent | Mortgage Payment | $1,247.44
+- 02/04/2018 | Mortgage & Rent | Mortgage Payment | $1,247.44
+- 02/05/2018 | Mortgage & Rent | Mortgage Payment | $1,247.44
+- 02/01/2018 | Mortgage & Rent | Mortgage Payment | $1,247.44
+- 04/06/2018 | Mortgage & Rent | Mortgage Payment | $1,247.44
+- 02/07/2018 | Mortgage & Rent | Mortgage Payment | $1,247.44
+- 04/09/2018 | Mortgage & Rent | Mortgage Payment | $1,247.44
+- 02/08/2018 | Mortgage & Rent | Mortgage Payment | $1,247.44
+- 02/11/2018 | Mortgage & Rent | Mortgage Payment | $1,209.18
+- 03/12/2018 | Mortgage & Rent | Mortgage Payment | $1,209.18
+- 02/10/2018 | Mortgage & Rent | Mortgage Payment | $1,209.18
+- 03/01/2019 | Mortgage & Rent | Mortgage Payment | $1,100.00
+- 05/02/2019 | Mortgage & Rent | Mortgage Payment | $1,100.00
+- 04/03/2019 | Mortgage & Rent | Mortgage Payment | $1,100.00
+- 02/05/2019 | Mortgage & Rent | Mortgage Payment | $1,100.00
+- 02/04/2019 | Mortgage & Rent | Mortgage Payment | $1,100.00
+- 03/06/2019 | Mortgage & Rent | Mortgage Payment | $1,100.00
+- 02/07/2019 | Mortgage & Rent | Mortgage Payment | $1,100.00
+- 02/08/2019 | Mortgage & Rent | Mortgage Payment | $1,100.00
+- 03/09/2019 | Mortgage & Rent | Mortgage Payment | $1,100.00
+
+10. Phan tich du lieu du bao
+- Mo hinh su dung: hoi quy tuyen tinh (Linear Regression) bang numpy.polyfit.
+- Dau vao mo hinh: tong chi tieu theo thang sau khi da lam sach va tong hop du lieu.
+- Tap huan luyen: 18 thang, tu 2018-01 den 2019-06.
+- Tap kiem thu: 3 thang, tu 2019-07 den 2019-09.
+- Phuong phap: uoc luong duong xu huong tuyen tinh tren 6 thang gan nhat de du bao 3 thang tiep theo.
+- Do doc xu huong uoc luong: $-246.71 moi thang.
+- Du bao 2019-10: $2,764.00
+- Du bao 2019-11: $2,517.00
+- Du bao 2019-12: $2,271.00
+- Ket qua du bao cho thay chi tieu co xu huong giam nhe, nhung van can theo doi cac khoan co dinh de tranh tang tro lai.
+- Danh gia mo hinh: mo hinh de hieu, de trien khai va phu hop voi bo du lieu nho.
+- Ket qua du bao tren tap kiem thu:
+  2019-07: thuc te $2,551.00, du bao $8,154.00
+  2019-08: thuc te $2,043.00, du bao $9,486.00
+  2019-09: thuc te $2,038.00, du bao $10,817.00
+- MAE: $7,275.00
+- RMSE: $7,390.57
+- R2: -942.5201
+- Han che mo hinh: mo hinh tuyen tinh co the bo sot tinh mua vu, bien dong dot bien va anh huong cua tung loai chi tieu rieng.
+
+11. Nhan xet
+- Danh muc chi tieu lon nhat la Mortgage & Rent voi $24,754.50.
+- Thang chi tieu cao nhat la 2019-06 voi $10,912.38.
+- Nen dat ngan sach rieng cho nhom giai tri va mua sam de tranh vuot muc cho phep.
+- Nha o va an uong la cac khoan thiet yeu, can duoc uu tien truoc khi lap ke hoach tiet kiem.
+
+12. Ket luan
+- Bai toan da thuc hien du 4 yeu cau: quy trinh phan tich du lieu, xu ly du lieu, truc quan hoa va phan tich du bao.
+- Bar chart la bieu do hieu qua nhat de so sanh cac danh muc, trong khi pie chart va line chart bo tro ve co cau, xu huong va du bao.
+- Mo hinh hoi quy tuyen tinh hien tai phu hop de minh hoa xu huong ngan han, nhung can tach train/test va bo sung chi so danh gia neu muon bao cao theo huong hoc may day du.
+- Co the mo rong phan tich theo quy, theo phuong thuc thanh toan va ap dung mo hinh du bao nang cao hon.
